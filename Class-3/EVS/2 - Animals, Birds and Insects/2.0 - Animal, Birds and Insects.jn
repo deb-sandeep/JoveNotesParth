@@ -42,7 +42,6 @@ Example: Kangaroo, gorilla                                                      
 
 @qa "How are claws helpful to birds?"
 "
-
 1. Holding on to the branches
 2. Hop on ground
 3. Catch a prey"
@@ -53,8 +52,7 @@ Example: Kangaroo, gorilla                                                      
 2. Read
 3. Climb
 4. Waddle"
-
-"Read because it is not a kind of movement shown by animals."
+"**Read** because it is not a kind of movement shown by animals."
 
 @qa "Find the odd one out and give reasons. 
 
@@ -63,7 +61,8 @@ Example: Kangaroo, gorilla                                                      
 3. Ostrich
 4. Sheep"
 
-"Ostrich because it is a bird and carnivore, while others are mammals and herbivores"
+"**Ostrich** because it is a bird and carnivore, while others are mammals and 
+herbivores"
 
 @qa "Find the odd one out and give reasons. 
 
@@ -72,9 +71,9 @@ Example: Kangaroo, gorilla                                                      
 3. Ant
 4. Frog"
 
-"Frog because it is not an insect."
+"**Frog** because it is not an insect."
 
-@qa "State the differences between animals and plants."
+@qa "State the differences between living and non-living things."
 "
 Living things	                         | Non-living things 
 -----------------------------------------|---------------------------------------------------------
@@ -103,14 +102,11 @@ Example: Plants, Animals, Humans         | Example: Pencil, Stone, Books
 @fib "Hen : {0} :: Pig : Sty"
 "Coop"
 
-@fib "Write P for plant or A for animal
-
-1. They are rooted to one place and cannot move around {0}
-2. They cannot make their own food {1}
-3. They have roots shoots and leaves {2}
-4. They bear colorful flowers {3}
-5. Most of them have some kinds of a skeleton {4}"
-"P" "A" "P" "P" "A"
+@fib "{0} ( _Plants / Animals_ ) are rooted to one place and cannot move around" "Plants"
+@fib "{0} ( _Plants / Animals_ ) cannot make their own food" "Animals"
+@fib "{0} ( _Plants / Animals_ ) have roots, shoots and leaves" "Plants"
+@fib "{0} ( _Plants / Animals_ ) bear colorful flowers" "Plants"
+@fib "Most of the {0} (_Plants / Animals_) have some kinds of a skeleton" "animals"
 
 @fib "Animals that eat only plants are called {0}"
 "Herbivores"
@@ -122,8 +118,12 @@ Example: Plants, Animals, Humans         | Example: Pencil, Stone, Books
 "Omnivoures"
 
 @true_false "All birds can fly" false
+"Some birds like Emu can't fly."
+
 @true_false "All birds have beaks" true
+
 @true_false "Penguin is not a bird" false
+"Penguin is a bird."
 
 @match "Match the columns" {
     "A humming bird can suck the nectar"   = "Because it's beak is shaped like a straw"
