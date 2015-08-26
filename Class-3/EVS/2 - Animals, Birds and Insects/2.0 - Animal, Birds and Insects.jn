@@ -1,0 +1,16 @@
+subject "EVS"
+chapterNumber 2.0
+chapterName "Animals, Birds and Insects"
+
+@fib "Things that are alive such as plants, animals and humans are called {0}."
+"living things"
+
+@true_false "Mountain is a living thing" false
+"Mountain is not alive, hence it is not a living thing"
+
+@qa "Give some example of living things?"
+"Some examples of living things are:
+
+1. Plants
+2. Animals
+3. Humans"
