@@ -5,8 +5,13 @@ chapterName "Animals, Birds and Insects"
 @fib "Things that are alive such as plants, animals and humans are called {0}."
 "living things"
 
+@fib "Things that are not alive are called {0}"
+"Non-living things"
+
 @true_false "Mountain is a living thing" false
 "Mountain is not alive, hence it is not a living thing"
+
+@true_false "Loin is a living thing" true
 
 @qa "Give some example of living things?"
 "Some examples of living things are:
@@ -14,3 +19,134 @@ chapterName "Animals, Birds and Insects"
 1. Plants
 2. Animals
 3. Humans"
+
+@qa "Give some example of non-living things?"
+"Some examples of non-living things are:
+
+1. Mountain
+2. Rivers
+3. Chair"
+
+@qa "State the differences between animals and plants."
+"
+Animals	                                                                        | Plants 
+--------------------------------------------------------------------------------|--------------------------------------------------------------------------
+They can't make their own food, they are dependent on other plants and animals. | They can make their own food by the process of photo-synthasis
+They inhale oxygen and release carbon diaoxide                                  | They take in carbon diaoxide and release oxygen
+Can move from one place to other with the help of legs, scales, wings, fins etc.| They cannot move from one place to another and remain rooted at one place
+Example: Kangaroo, gorilla                                                      | Example: Blueberry plant, rose plant
+"
+
+@qa "Why does a sparrow has a short pointed beak?"
+"Sparrow's short pointed beak is helpful in cracking the seeds which is it's food"
+
+@qa "How are claws helpful to birds?"
+"
+
+1. Holding on to the branches
+2. Hop on ground
+3. Catch a prey"
+
+@qa "Find the odd one out and give reasons. 
+
+1. Swim
+2. Read
+3. Climb
+4. Waddle"
+
+"Read because it is not a kind of movement shown by animals."
+
+@qa "Find the odd one out and give reasons. 
+
+1. Cow
+2. Goat
+3. Ostrich
+4. Sheep"
+
+"Ostrich because it is a bird and carnivore, while others are mammals and herbivores"
+
+@qa "Find the odd one out and give reasons. 
+
+1. Beetle
+2. Housefly
+3. Ant
+4. Frog"
+
+"Frog because it is not an insect."
+
+@qa "State the differences between animals and plants."
+"
+Living things	                         | Non-living things 
+-----------------------------------------|---------------------------------------------------------
+They need food to grow and work          | They don't need food to grow and work
+They breathe                             | They cannot breathe
+They can feel and respond to changes     | They do not feel and respond to changes
+They can reproduce and increase in number| They can't reproduce and hence can't increase in number
+Example: Plants, Animals, Humans         | Example: Pencil, Stone, Books
+"
+
+@fib "An animal that hunts other animals for food is called {0}"
+"Predator"
+
+@fib "Lion's home is called a {0} and tiger's home is called a {1}"
+"Den" "Lair"
+
+@fib "{0} lays it's egg in the nest of a crow"
+"Koel"
+
+@fib "Wings : Birds :: {0} : Fish"
+"Fins"
+
+@fib "Duck : Waddle :: Kangaroo : {0}"
+"Hops"
+
+@fib "Hen : {0} :: Pig : Sty"
+"Coop"
+
+@fib "Write P for plant or A for animal
+
+1. They are rooted to one place and cannot move around {0}
+2. They cannot make their own food {1}
+3. They have roots shoots and leaves {2}
+4. They bear colorful flowers {3}
+5. Most of them have some kinds of a skeleton {4}"
+"P" "A" "P" "P" "A"
+
+@fib "Animals that eat only plants are called {0}"
+"Herbivores"
+
+@fib "Animals that eat only meat and flesh are called {0}"
+"Carnivores"
+
+@fib "Animals that eat both plants and meat are called {0}"
+"Omnivoures"
+
+@true_false "All birds can fly" false
+@true_false "All birds have beaks" true
+@true_false "Penguin is not a bird" false
+
+@match "Match the columns" {
+    "A humming bird can suck the nectar"   = "Because it's beak is shaped like a straw"
+    "To pick and crush seeds mynahs" = "Need a short pointed beak"
+    "The beak of a wood pecker is like a"   = "Drill to make holes in the trees"
+    "The duck digs the mud with it's"    = "Broad flat beak"
+    "A curved beak helps the parrot to" = "Crack open fruits and nuts"
+    "Long pointed beaks help harons" = "To catch fish"
+}
+
+@qa "Describe the claws and and beaks of eagles, vultures and owls with which they catch and eat their food"
+"Eagles, vultures and owls have very strong and sharp claws. Their claws help them to catch and hold their prey firmly.
+The strong sharp and hooked beak helps in tearing up the flesh into small pieces"
+
+@fib "A humming bird has a {0} beak that helps it to suck nectar from flowers"
+"long"
+
+@fib "A parrot has a {0} beak that helps it to crack open nuts, seeds and unriped fruits"
+"curved"
+
+@fib "A crane has a {0} beak that helps it to poke fish and lift it out of water"
+"long and pointed"
+
+@fib "Owls have {0} claws that help them to catch and hold their prey firmly"
+"strong and sharp"
+
