@@ -348,6 +348,7 @@ $$15 \\times 10 $$ | = | $$150$$
     "$$8  \\times 7  $$" = "$$56$$"
     "$$8  \\times 9  $$" = "$$72$$"
     "$$8  \\times 4  $$" = "$$32$$"
+    "$$8  \\times 3  $$" = "$$24$$"
 }
 
 @match hide "Multiplication table for 8" {
