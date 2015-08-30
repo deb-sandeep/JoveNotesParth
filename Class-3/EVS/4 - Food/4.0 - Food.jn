@@ -1,11 +1,11 @@
-subject "ËVS"
+subject "EVS"
 chapterNumber 4.0
 chapterName "Food"
 
 @fib "{0} is the best method of cooking."
 "Steaming"
 
-@fib "{0} and {0} should also be a part of a balanced diet."
+@fib "{0} and {1} should also be a part of a balanced diet."
 "Fibre" "water"
 
 @fib "{0} iss the most important meal of the day."
@@ -16,17 +16,15 @@ chapterName "Food"
 
 @qa "Classify the following: Bread, apple, nuts, milk, cheese, roti, brinjal, rice, grapes."
 "
-
-a. Energy giving food - (fats and carbohydrates) - bread, roti, rice.
-b. Body building food - (proteins) - nuts, milk, cheese.
-c. Protective food - (minerals and vitamins) - apple, brinjal, grapes."
+1. Energy giving food - (fats and carbohydrates) - bread, roti, rice.
+2. Body building food - (proteins) - nuts, milk, cheese.
+3. Protective food - (minerals and vitamins) - apple, brinjal, grapes."
 
 @qa "Find the odd one out and give reasons.
 
 1. Steaming
 2. Deep frying
 3. Pressure cooker"
-
 "**Pressure cooker** as it is an utensil whereas others are cooking methods."
 
 @qa "Find the odd one out and give reasons.
@@ -35,7 +33,6 @@ c. Protective food - (minerals and vitamins) - apple, brinjal, grapes."
 2. Cucumber
 3. Brinjal
 4. Tomato"
-
 "**Brinjal** as it has to be cooked before eating while others can be eaten raw."
 
 @fib "An environment friendly gas obtained from cow - dung which is used as fuel for cooking {0}"
@@ -161,7 +158,7 @@ It is used for making idlis, dhoklas, momos, etc.				|It is used for making pako
 
 @match "Match the method of cooking used to cook the given food items:" {
 	"Cookies" = "Baking"
-	"Ïdlis" = "Steaming"
+	"Idlis" = "Steaming"
 	"Rice" = "Boiling"
 	"Chips" = "Frying"
 }
