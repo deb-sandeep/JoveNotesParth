@@ -2,18 +2,10 @@ subject "English Literature"
 chapterNumber 5.0
 chapterName "The Lion and the Mouse"
 
-@qa "Give meanings of:
-
-1. Chomp
-2. Ferocious
-3. Gnawed
-4. Ridiculed"
-
-"
-1. Chomp - to bite something noisily.
-2. Ferocious - mean and scary.
-3. Gnawed - bit or chewed something again and again.
-4. Ridiculed - made fun of someone in an unkind way."
+@wm "Chomp"     "To bite something noisily."
+@wm "Ferocious" "Mean and scary."
+@wm "Gnawed"    "Bit or chewed something again and again."
+@wm "Ridiculed" "Made fun of someone in an unkind way."
 
 @qa "What is a fable?"
 "A fable is a short story, usually with animal characters that has a moral."
@@ -22,9 +14,14 @@ chapterName "The Lion and the Mouse"
 "The animals of the jungle were afraid of the ferocious lion."
 
 @qa "Why did the lion ridicule the mouse?"
-"One day while the ferocious lion was sleeping outside his den, the mouse who came searching for food got caught by the lion.
-As the lion was about to chomp up the mouse, the mouse pleaded by asking the lion to let him go.He also added that he would help the lion some day.
-Listening to his words the lion ridiculed the mouse by laughing and saying, how could a tiny mouse ever help him."
+"One day while the ferocious lion was sleeping outside his den, the mouse who 
+came searching for food got caught by the lion.
+
+As the lion was about to chomp up the mouse, the mouse pleaded by asking the 
+lion to let him go.He also added that he would help the lion some day.
+
+Listening to his words the lion ridiculed the mouse by laughing and saying, 
+how could a tiny mouse ever help him."
 
 @true_false "The mouse was caught in a net." false
 

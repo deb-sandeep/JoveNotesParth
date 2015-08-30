@@ -2,20 +2,11 @@ subject "English Literature"
 chapterNumber 8.0
 chapterName "Simple"
 
-@qa "Give meanings of:
-
-1. Cape
-2. Expensive
-3. Imagination
-4. Simple
-5. Thunder"
-
-"
-1. Cape - a long cloth tied around the neck, hanging loosely over the back.
-2. Expensive - costing a lot of money.
-3. Imagination - the power of the mind to create thoughts and pictures.
-4. Simple - plain, not fancy.
-5. Thunder - the loud sound made by clouds during rains."
+@wm "Cape"        "A long cloth tied around the neck, hanging loosely over the back."
+@wm "Expensive"   "Costing a lot of money."
+@wm "Imagination" "The power of the mind to create thoughts and pictures."
+@wm "Simple"      "Plain, not fancy."
+@wm "Thunder"     "The loud sound made by clouds during rains."
 
 @qa "Name the three objects that Steven used in his imaginary adventures."
 "Steven used an old cardboard box, an old dinner plate and an old blanket in his imaginary adventures."

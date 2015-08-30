@@ -2,20 +2,11 @@ subject "English Literature"
 chapterNumber 4.0
 chapterName "Annie's Ant Adventure"
 
-@qa "Give meanings of :
-
-1. Dizzy
-2. Guard
-3. Scent
-4. Stranger
-5. Tipped"
-
-"
-1. Dizzy - confused, a sense that you would lose balance and fall.
-2. Guard - to protect, to watch over.
-3. Scent - something that smells good.
-4. Stranger - a person you don't know, outsider.
-5. Tipped - spilt, fell out."
+@wm "Dizzy"    "Confused, a sense that you would lose balance and fall."
+@wm "Guard"    "To protect, to watch over."
+@wm "Scent"    "Something that smells good."
+@wm "Stranger" "A person you don't know, outsider."
+@wm "Tipped"   "Spilt, fell out."
 
 @qa "Who took away the sweets?"
 "THe ants took the sweets away."

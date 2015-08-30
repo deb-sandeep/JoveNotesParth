@@ -22,15 +22,6 @@ chapterName "Sense Organs and Teeth"
 
 @true_false "A person who cannot hear, can learn through sign language." true
 
-@qa "Find the odd one out and give reasons.
-
-1. Nose
-2. Ears
-3. Eyes
-4. Legs"
-
-"**Legs** because they are not sense organs."
-
 @multi_choice "Find the odd one out and give reasons." {
     @options {
         "Nose",
