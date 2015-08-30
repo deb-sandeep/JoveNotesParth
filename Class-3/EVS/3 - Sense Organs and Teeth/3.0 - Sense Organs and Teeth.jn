@@ -1,0 +1,91 @@
+subject "EVS"
+chapterNumber 3.0
+chapterName "Sense Organs and Teeth"
+
+@fib "{0} is the largest organ of our body."
+"Skin"
+
+@fib "{0} was developed by Louis Braille."
+"Braille"
+
+@fib "An adult has a set of {0} permanent teeth."
+"32"
+
+@fib "The outer covering of our teeth is called {0}."
+"enamel"
+
+@true_false "All the teeth in our mouth perform the same functions." false
+
+@true_false "We should not help people with special needs." false
+
+@true_false "A person who cannot hear, can learn through sign language." true
+
+@qa "Find the odd one out and give reasons.
+
+1. Nose
+2. Ears
+3. Eyes
+4. Legs"
+
+"Legs because they are not sense organs."
+
+@qa "Find the odd one out and give reasons.
+
+1. Deaf
+2. Mute
+3. Lame
+4. Blind"
+
+"Lame because its not a sensory challenge but a physical challenge."
+
+@qa "Find the odd one out and give reasons.
+
+1. Skin
+2. Hands
+3. Legs
+4. Liver"
+
+"Liver because its an internal organ while others are external organs."
+
+@qa "State the differences between External Organs and Internal Organs."
+"
+External Organs																|Internal Organs
+----------------------------------------------------------------------------|----------------------------------------------------------------------------------------
+Organs which are visible and are found outside are called external organs.	|Organs found inside our body and are not visible otherwise are called internal organs.
+Example: Ear, hand, eyes, legs, etc.										|Example: Liver, heart, lungs, etc.
+"
+
+@qa "State the differences between Braille Language and Sign Language."
+"
+Braille Language																				|Sign Language
+------------------------------------------------------------------------------------------------|--------------------------------------------------------------------
+Used by blind and visually challenged.															|Used by deaf and mute people.
+Use of arrangements of dots which can be felt by finger tips and read as letters and alphabets.	|Use of fingers and hand movements to describe letters and alphabet
+"
+@qa "How are teeth useful to us?"
+
+"Teeth help us to -
+
+1. Chew food.
+2. Talk and pronounce words. Eg: the, thumb, etc.
+3. Give proper shape to our face."
+
+@qa "Write ways in which you can help a person who has difficulty in hearing."
+
+"We can help by talking slowly and clearly.
+We can also use sign language and facial expression to make them understand better."
+
+@qa "Write ways in which you can help the blind."
+
+"
+
+* We can help them to cross the road by holding their hands nd guiding them.
+* We can tell them if there is any object in their way so that they don't get hurt.
+* We can tell them what is served in their plate.
+* We can help them in boarding a public transport."
+
+
+
+
+
+
