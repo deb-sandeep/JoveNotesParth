@@ -1,0 +1,42 @@
+subject "EVS"
+chapterNumber 5.0
+chapterName "Safety and first aid"
+
+@qa "Give two reasons why we must follow safety rules on the road"
+"
+
+1. To avoid accident
+2. To avoid traffic jam"
+
+@qa "What are the five essential things that should be present in a first aid kit"
+"
+
+1. Antiseptic liquid dis-infectant
+2. Antiseptic ointments
+3. Cotton swabs
+4. First aid tape
+5. Soap"
+
+@qa "Describe the use of each of the five things in the first aid kit
+
+1. Antiseptic liquid dis-infectant
+2. Antiseptic ointments
+3. Cotton swabs
+4. First aid tape
+5. Soap"
+"
+
+1. **Antiseptic liquid dis-infectant** - Used to clean cuts and bruises
+2. **Antiseptic ointments** - Applied on minor cuts and bruises
+3. **Cotton swabs** - Used for cleaning wounds or applying creams and ointments
+4. **First aid tape** - Used for securing bandages
+5. **Soap** - Used for cleaning wounds"
+
+@true_false "Before giving first aid, it is not important to have the proper training." false
+@true_false "Doctors wear gloves or protective clothing to look smart" false
+@true_false "It is important to wash your hands before and after giving first aid" true
+@true_false "It is also important not to touch your eyes, mouth and nose while giving first aid" true
+@true_false "We can eat or drink while giving first aid or before washing our hands" false
+@true_false "We should dispose of all contaminated objects after giving first aid" true
+
+

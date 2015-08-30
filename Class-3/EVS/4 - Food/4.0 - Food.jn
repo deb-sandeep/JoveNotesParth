@@ -1,0 +1,188 @@
+subject "ËVS"
+chapterNumber 4.0
+chapterName "Food"
+
+@fib "{0} is the best method of cooking."
+"Steaming"
+
+@fib "{0} and {0} should also be a part of a balanced diet."
+"Fibre" "water"
+
+@fib "{0} iss the most important meal of the day."
+"Breakfast"
+
+@fib "We use {0} to add flavour, colour and aroma in food."
+"spices"
+
+@qa "Classify the following: Bread, apple, nuts, milk, cheese, roti, brinjal, rice, grapes."
+"
+
+a. Energy giving food - (fats and carbohydrates) - bread, roti, rice.
+b. Body building food - (proteins) - nuts, milk, cheese.
+c. Protective food - (minerals and vitamins) - apple, brinjal, grapes."
+
+@qa "Find the odd one out and give reasons.
+
+1. Steaming
+2. Deep frying
+3. Pressure cooker"
+
+"**Pressure cooker** as it is an utensil whereas others are cooking methods."
+
+@qa "Find the odd one out and give reasons.
+
+1. Carrot
+2. Cucumber
+3. Brinjal
+4. Tomato"
+
+"**Brinjal** as it has to be cooked before eating while others can be eaten raw."
+
+@fib "An environment friendly gas obtained from cow - dung which is used as fuel for cooking {0}"
+"Gobar gas"
+
+@fib "A spice that adds yellow colour in pickles and cooked food {0}"
+"Turmeric"
+
+@fib "A fuel which is commonly used in our homes {0}"
+"L.P.G."
+
+@fib "A device that uses sunlight a an energy source to cook food {0}"
+"Solar cooker" 
+
+@qa "State the differences between Energy giving food and Body building food."
+
+"
+Energy giving food								|Body building food
+------------------------------------------------|---------------------------------------
+It gives energy to work.						|It builds or develops our body.
+It comprises of carbohydrates and fats.			| It comprises proteins.
+Eg: rice, wheat, corn, etc.						|Eg: fish, milk, soya, eggs, etc.
+"
+
+@qa "State the differences between Steaming and Deep rying."
+
+"
+Steaming														|Deep frying
+----------------------------------------------------------------|------------------------------------------------------------------
+It is a cooking method which uses water vapour to cook food.	|It is a cooking method which uses plenty of hot oil to cook food.
+It is a healthy method of cooking.								|It is an unhealthy method of cooking.
+It is used for making idlis, dhoklas, momos, etc.				|It is used for making pakoras, bhaturas, samosas, etc.
+"
+
+@qa "Which spices do we use to add aroma in food?"
+"Clove, fennel, cinnamon, cardamom, etc. are used to add aroma in food."
+
+@qa "What is a balanced diet?"
+"A diet which contains proper amount of carbohydrates, fats, proteins, minerals, vitamins, water and fibre necessary to maintain good health."
+
+@qa "What kind of food growing children should eat?"
+"Growing children should eat food which is rich in proteins (body building food) which helps them to grow better."
+
+@qa "Which is the healthiest method of cooking? Why?"
+"Steaming is the healthiest method of cooking a it helps in retaining nutrients of food, makes it soft and easily digestible while adding only the required oil or no oil at all."
+
+@qa "Can we use a pan, made of plastic, to boil water over gas? Give reasons."
+"No, we cannot use a pan made up of plastic as the fire would cause the plastic to melt."
+
+@rtc {
+    context "Write the part of the plant that gives us the following foods"
+    
+    @qa "Carrot"
+    "roots"
+   
+    @qa "Cabbage"
+    "Leaves"
+    
+    @qa "Peas"
+    "Fruit"
+    
+    @qa "Ginger"
+    "Stem"
+    
+    @qa "Cauliflower"
+    "Flower"
+    
+    @qa "Potato"
+    "Stem"
+    
+    @qa "Onion"
+    "Stem"
+    
+    @qa "Garlic"
+    "Stem"
+    
+    @qa "Tomato"
+    "Fruit"
+    
+    @qa "Raddish"
+    "Root"
+    
+    @qa "Beetroot"
+    "Root"
+    
+    @qa "Mango"
+    "Fruit"
+    
+    @qa "Spinach"
+    "Leaves"
+    
+    @qa "Pomegranate"
+    "Fruit"
+ }
+ 
+ @qa "Complete the names of spices using the prompts given below:
+
+1. Cu
+2. Gi
+3. Cl
+4. Tu"
+"
+
+1. Cumin
+2. Ginger
+3. Clove
+4. Turmeric"
+
+@qa "Which of the following fuels is the best to use and why? Give reasons for your choice.
+
+1. Firewood
+2. Kerosene
+3. Gobar Gas"
+"**Gobar Gas** - It is a natural fuel and does not require to cut trees thus does not create pollution."
+
+@qa "Which of the following methods of cooking requires an Oven.
+
+1. Boiling
+2. Steaming
+3. Frying
+4. Baking"
+"Baking"
+
+@match "Match the method of cooking used to cook the given food items:" {
+	"Cookies" = "Baking"
+	"Ïdlis" = "Steaming"
+	"Rice" = "Boiling"
+	"Chips" = "Frying"
+}
+
+@qa "Write the difference between boiling and steaming."
+"Boiling is done by cooking food in boiling water where as steaming is done by cooking food in the steam rising from boiling water."
+
+@fib "{0} help in body building."
+"Proteins"
+
+@fib "Some examples of body building foods are {0}"
+"eggs and Beans"
+
+@fib "Fats are included in the group of {0} foods."
+"energy giving"
+
+@fib "Fruits and Vegetables are examples of those foods which {0}"
+"protect us from diseases"
+
+@qa "Why do babies drink milk?"
+"Milk is a complete food and helps in growth of bones of the baby"
+
+@qa "Why do old people eat soft and sami-solid food?"
+"Old people can chew soft and semi-solid food easily. They can also digest it more easily than solid food"

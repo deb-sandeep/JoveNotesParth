@@ -1,0 +1,99 @@
+subject "EVS"
+chapterNumber 7.0
+chapterName "My Neighbourhood"
+
+@fib "{0} refer to the well known features of an area"
+"Landmarks"
+
+@fib "A {0} is a person who makes maps"
+"Cartographer"
+
+@fib "People deposit their money a {0}"
+"Bank"
+
+@fib "People living in a same locality are called {0}"
+"Neighbours"
+
+@fib "An instrument used find directions using a magnetic needle - {0}"
+"Compass"
+
+@fib "A ration shop is also called - {0}"
+"Fair price shop (FPS)"
+
+@fib "A person who collects letters from letter box and drops them to the post office - {0}"
+"Postman"
+
+@qa "Find the odd one out and give reasons.
+
+1. Hills
+2. Rivers
+3. Lakes
+4. Malls"
+
+"**Malls** as they are built forms, whereas others are land forms"
+
+@qa "Find the odd one out and give reasons.
+
+1. Post office
+2. Police station
+3. Petrol pump
+4. Bedroom"
+
+"**Bedroom** as all others are landmarks, whereas bedroom is not"
+
+@qa "Find the odd one out and give reasons.
+
+1. Water board
+2. Electricity board
+3. Post office
+4. Restaurant"
+
+"**Restaurant** as it is not governed by the government"
+
+@fib "Hills : Land forms :: Malls : {0}"
+"Built forms"
+
+@fib "Bank : Money :: {0} : Parcels"
+"Post office"
+
+@fib "Water : Water board :: Grocery : {0}"
+"Ration shop"
+
+@true_false "We should be rude to our neighbours" false
+"We should be polite to our neighbours"
+
+@true_false "Post man sells us medicines" false
+"Post man delivers letters to us"
+
+@true_false "People living in the same localities are called enemies" false
+"People living in the same locality are called neighbours"
+
+@qa "What is map?"
+"Map is a representation of an area though symbols and directions on the paper."
+
+@qa "Why do we need to know the physical features and landmarks of a place?"
+"They help us to reach a place faster, saves time and develops awareness of a place"
+
+@qa "What do you mean by landmarks?"
+"Landmarks are the well known features of an area, these are helpful to know areas and direction to reach our destination or address
+examples temples, shops, rivers etc."
+
+@qa "Diffentiate between water board and electricity board."
+"
+
+* Water board - It is a place which receives water from river or lake. This water is filtered and then only safe drinking is sent to our homes.
+* Electricity board - It is a place which receives large amount of electric power which is converted into less strong currents and then provided to our homes."
+
+@match "Match the following:" {
+	"Post office" = "A place from where we send letters and parcels"
+	"Police station" = "A place to go report a theft"
+	"Ration shop" = "A place to get monthly supply of pulses and other food products"
+	"Bank" = "A place to deposit money"
+}
+
+@qa "If your father has to send an urgent money order to his sister in another town, what are the different ways by which he can send it?"
+"He can send a money order from the post office or he can transfer money from the bank."
+
+
+
+
