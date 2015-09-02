@@ -1,0 +1,71 @@
+subject "English Grammar"
+chapterNumber 5.0
+chapterName "Past Tense Verbs"
+
+@fib "It {0} raining. (stop)"
+"stopped"
+"stopped"
+
+@fib "I {0} myself at the fair. (copy)"
+"copied"
+
+@fib "We {0} for them at the airport. (wait)"
+"waited"
+
+@fib "He {0} about his achievement. (brag)"
+"bragged"
+
+@fib "He {0} the ration. (supply)"
+"supplied"
+
+@fib "I {0} my keys on the table. (keep)"
+"kept"
+
+@fib "I {0} early yesterday. (leave)"
+"left"
+
+@fib "She {0} gifts for everyone. (bring)"
+"brought"
+
+@fib "Reenu {0} quietly during the class. (sit)"
+"sat"
+
+@fib "The car {0} the tree. (hit)"
+"hit"
+
+@fib "She {0} lots of cheese on the pizza. (put)"
+"put"
+
+@qa "What did you do after school yesterday?"
+"I watched some T.V. yesterday."
+
+@qa "Where did you go last year for your holidays?"
+"I went to Lucknow last year."
+
+@qa "What did you do over the weekend?"
+"I went to watch a movie in the weekend."
+
+@fib "The boy {0} very nicely. (to swim)"
+"swam"
+
+@fib "She {0} a story. (to write)"
+"wrote"
+
+@fib "He {0} the paper work. (to do)"
+"did"
+
+@fib "They {0} through the woods. (to run)"
+"ran"
+
+@fib "The baby {0} soundly. (to sleep)"
+"slept"
+
+@fib "She {0} up quickly. (to get)"
+"got"
+
+@fib "I {0} the house quietly. (to leave)"
+"left"
+
+@fib "He {0} the parcel. (to take)"
+"took"
+

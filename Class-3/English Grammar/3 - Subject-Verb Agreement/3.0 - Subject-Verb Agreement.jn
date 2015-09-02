@@ -1,0 +1,51 @@
+subject "English Grammar"
+chapterNumber 3.0
+chapterName "Subject-Verb Agreement"
+
+@match "Match the subjects with their predicates." {
+"The little girl" = "goes to school."
+"They" = "bring food."
+"All the kites" = "fly in the sky."
+"Zippy" = "sees the kites in China."
+"I" = "am a boy."
+}
+
+@fib "Can you {0} me to clean my car? (helps/is helping/help)"
+"help"
+
+@fib "Amit {0} a beautiful pencil. (have/belong/has)"
+"has"
+
+@fib "The movie {0} at 8 p.m. (begins/is begin/begin)"
+"begins"
+
+@fib "The birds {0} in the sky. (fly/flies)"
+"fly"
+
+@fib "The children {0} stories. (write/writes)"
+"writes"
+
+@fib "I {0} well. (dance/dances)"
+"dance"
+
+@fib "He {0} tea. (prefer/prefers)"
+"prefers"
+
+@fib "Renu {0} . (study/studies)"
+"studies"
+
+@fib "The little boy {0} the girl. (help/helps)"
+"helps"
+
+@fib "The boy {0} to the market. (runs/run)"
+"runs"
+
+@fib "The {0} are interesting. (book/books)"
+"books"
+
+@fib "Three {0} live here. (student/students)"
+"students"
+
+@fib "The {0} were flying over my head. (duck/ducks)"
+"ducks"
+

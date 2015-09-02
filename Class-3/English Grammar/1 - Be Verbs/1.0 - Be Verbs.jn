@@ -1,0 +1,49 @@
+subject "English Grammar"
+chapterNumber 1.0
+chapterName "Order Words"
+
+@fib "The question paper {0} (is/am/are) not difficult."
+"is"
+
+@fib "Äll the questions {0} (is/am/are) easy."
+"are"
+
+@fib "We {0} (is/am/are) good students."
+"are"
+
+@fib "I {0} (is/am/are) not a fool."
+"am"
+
+@fib "There {0} (is/am/are) someone waiting for you."
+"is"
+
+@fib "We {0} twin brothers."
+"are"
+
+@fib "The children {0} helpful."
+"are"
+
+@fib "I {0} an artist."
+"am"
+
+@fib "Ritu {0} a singer."
+"is"
+
+@fib "You {0} very pretty."
+"are"
+
+@fib "Amit {0} a football player."
+"is"
+
+@fib "Tom {0} a bright student."
+"is"
+
+@fib "I {0} very hungry."
+"am"
+
+@fib "They {0} the champions of the race."
+"are"
+
+@fib "She {0} very talkative."
+"is"
+

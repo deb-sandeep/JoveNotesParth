@@ -1,0 +1,16 @@
+subject "English Grammar"
+chapterNumber 6.0
+chapterName "Antonyms"
+
+@fib "Rock is {0}, but the cotton is {1}."
+"hard" "soft"
+
+@fib "The bench is {0}, but the grass is {1}."
+"dry" "wet"
+
+@fib "The lemon is {0}, but the lemon squash is {1}."
+"sour" "sweet"
+
+@fib "Ashok's glass is {0}, but Mary's is {1}."
+"empty" "full"
+

@@ -1,0 +1,47 @@
+subject "English Grammar"
+chapterNumber 4.0
+chapterName "Present Continuous Tense"
+
+@fib "I am {0} the letter. (open)"
+"opening"
+
+@fib "THe child is {0} the picture. (colour)"
+"colouring"
+
+@fib "They are {0} the pencil. (sharpen)"
+"sharpening"
+
+@fib "He is {0} the camera. (focus)"
+"focusing"
+
+@fib "It is {0} hotter. (grow)"
+"growing"
+
+@fib "She is {0} the painting on the wall. (display)"
+"displaying"
+
+@fib "We are {0} vegetables. (buy)"
+"buying"
+
+@fib "The untimely rain is {0} the crops. (destroy)"
+"destroying"
+
+@fib "He is {0} the report to the office. (submit)"
+"submitting"
+
+@fib "Hurry up! I am {0} for you. (wait)"
+"waiting"
+
+@fib "You are always {0} time. (waste)"
+"wasting"
+
+@qa "What are children doing in the playground right now?"
+"The children are playing in the playground."
+
+@qa "What is your teacher doing right now?"
+"The teacher is teaching in the classroom."
+
+@qa "What are you reading right now?"
+"I am reading a book."
+
+
