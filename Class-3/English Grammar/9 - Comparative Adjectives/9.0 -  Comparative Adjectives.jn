@@ -1,0 +1,64 @@
+subject "English Grammar"
+chapterNumber 9.0
+chapterName "Comparative Adjectives"
+
+@fib "This room is {0} than that one. (warm)"
+"warmer"
+
+@fib "There are {0} people than I expected. (few)"
+"fewer"
+
+@fib "Her room is {0} than mine. (neat)"
+"neater"
+
+@fib "He is {0} than you are. (fat)"
+"fatter"
+
+@fib "They are {0} than us. (careful)"
+"more careful"
+
+@fib "He is {0} than I am. (excited)"
+"more excited"
+
+@fib "Bani is a {0} teacher than Partho. (experienced)"
+"more experienced"
+
+@fib "Japanese is a {0} language than Chinese. (difficult)"
+"more difficult"
+
+@fib "Bicycles are {0} than cars. (slow)"
+"slower"
+
+@fib "A hill is {0} than a mountain. (small)"
+"smaller"
+
+@fib "Children who exercise are {0} than children who don't. (strong)"
+"stronger"
+
+@fib "I am {0} than my brother. (tall)"
+"taller"
+
+@fib "The sea is {0} than a lake. (large)"
+"larger"
+
+@fib "You look {0} than last month. Have you lost weight? (thin)"
+"thinner"
+
+@fib "Summer this year was {0} than last year. (hot)"
+"hotter"
+
+@fib "A blue whale is {0} than 25 elephants. (heavy)"
+"heavier"
+
+@fib "My best friend is {0} than me. (funny)"
+"funnier"
+
+@fib "I think Spanish is {0} than Japanese. (easy)"
+"easier"
+
+@fib "Sports shoes are {0} than sandals. (comfortable)"
+"more comfortable"
+
+@fib "A gold watch is {0} than a silver watch. (expensive)"
+"more expensive"
+

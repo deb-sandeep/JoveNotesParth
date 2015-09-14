@@ -1,0 +1,42 @@
+subject "English Grammar"
+chapterNumber 8.0
+chapterName "Pronoun"
+
+@fib "(You and I) {0} got many things."
+"We"
+
+@fib "(The notebook) {0} has all the details."
+"It"
+
+@fib "Mom gave a sandwich to {0} (you and me)."
+"us"
+
+@fib "When (Reema) {0} performed Kathak on stage, everyone looked at (Reema) {1}."
+"She" "her"
+
+@fib "(John, Ram and Dave) {0} went to play. Its fun to watch {1} together."
+"They" "them"
+
+@fib "Ravi likes cats. (Ravi) {0} has three cats."
+"He"
+
+@fib "Good afternoon, (students) {0} have a test today."
+"you"
+
+@fib "The buildings are tall, I like {0}."
+"them"
+
+@match "Match the nouns with the correct pronouns." {
+	"Sonali" = "She"
+	"Ashish" = "He"
+	"Raj and I" = "We"
+	"The Ball" = "It"
+	"The children" = "They"
+}
+
+@fib "Tina went to a stadium. {0} (Tina) saw that {1} (the stadium) was full of people. {2} (the people) were from different countries.
+{3} (Tina) saw {4} (the people) looking at {5} (Tina) and clapping. {6} (Tina) bowed before {7} (the people).
+{8} (Rohan and I) were also there in the crowd. {9} (Tina) smiled at {10} (Rohan and I)."
+"She" "it" "They" "She" "them" "her" "She" "them" "We" "She" "us"
+
+

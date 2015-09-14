@@ -14,3 +14,19 @@ chapterName "Antonyms"
 @fib "Ashok's glass is {0}, but Mary's is {1}."
 "empty" "full"
 
+@wm "Truthful"		"Dishonest"
+@wm "Wild"			"Tame"
+@wm "Brave"			"Timid"
+@wm "Often"			"Seldom"
+@wm "Kind"			"Cruel"
+@wm "Strong"		"Weak"
+@wm "Huge"			"Tiny"
+@wm "Talkative"		"Shy"
+
+@match "Match the words with opposite meaning" {
+	"Light" = "Heavy"
+	"Silent" = "Noisy"
+	"Wise" = "Foolish"
+	"Enter" = "Exit"
+}
+
