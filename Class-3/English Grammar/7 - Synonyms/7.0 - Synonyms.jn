@@ -2,22 +2,36 @@ subject "English Grammar"
 chapterNumber 7.0
 chapterName "Synonyms"
 
-@wm "Deadly"		"Dangerous"
-@wm "Enemy"			"Foe"
-@wm "Insufficient"	"Inadequate"
-@wm "Slender"		"Slim"
-@wm "Eager"			"Keen"
-@wm "Cruel"			"Unkind"
-@wm "Unique"		"Special"
-@wm "Frequent"		"Often"
-@wm "Compel"		"Force"
-@wm "Free"			"Release"
+@match "Match the word with its synonym." {
+    
+    "Deadly"       = "Dangerous"
+    "Enemy"        = "Foe"
+    "Insufficient" = "Inadequate"
+    "Slender"      = "Slim"
+    "Eager"        = "Keen"
+    "Cruel"        = "Unkind"
+    "Unique"       = "Special"
+    "Frequent"     = "Often"
 
-@match "Match the words with similar meanings." {
-	"Brave" = "Courageous"
-	"Munch" = "Eat"
-	"Walk" = "Stroll"
-	"Afraid" = "Scared"
-	"Relaxed" = "Calm"
+    @mcq_config {
+        @forwardCaption "Match the word with its synonym"
+        @reverseCaption "Match the word with its synonym"
+    }
+}
+
+@match "Match the word with its synonym." {
+    
+    "Compel"       = "Force"
+    "Free"         = "Release"
+    "Brave"        = "Courageous"
+    "Munch"        = "Eat"
+    "Walk"         = "Stroll"
+    "Afraid"       = "Scared"
+    "Relaxed"      = "Calm"
+
+    @mcq_config {
+        @forwardCaption "Match the word with its synonym"
+        @reverseCaption "Match the word with its synonym"
+    }
 }
 
