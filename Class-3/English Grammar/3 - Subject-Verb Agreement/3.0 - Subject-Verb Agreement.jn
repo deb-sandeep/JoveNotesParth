@@ -49,3 +49,14 @@ chapterName "Subject-Verb Agreement"
 @fib "The {0} were flying over my head. (duck/ducks)"
 "ducks"
 
+@fib "The four aliens {0} inside their spaceship. (enter/enters)"
+"enter"
+
+@fib "My dinosaur {0} onto the trampoline. (lead/leap)"
+"leap"
+
+@fib "Those cars {0} a loud sound as they race around the track. (makes/make)"
+"make"
+
+@fib "One of his sisters {0} the trombone. (plays/play)"
+"plays"

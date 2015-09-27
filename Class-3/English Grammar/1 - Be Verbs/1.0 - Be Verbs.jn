@@ -1,6 +1,6 @@
 subject "English Grammar"
 chapterNumber 1.0
-chapterName "Order Words"
+chapterName "Be Verbs"
 
 @fib "The question paper {0} (is/am/are) not difficult."
 "is"

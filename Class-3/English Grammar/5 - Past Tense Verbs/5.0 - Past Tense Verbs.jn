@@ -69,3 +69,66 @@ chapterName "Past Tense Verbs"
 @fib "He {0} the parcel. (to take)"
 "took"
 
+@fib "The policeman {0} after the thief. (run)"
+"ran"
+
+@fib "Garima {0} well. (write)"
+"wrote"
+
+@fib "The child {0} without toys. (play)"
+"played"
+
+@fib "A clever fox {0} into the deep well. (fall)"
+"fell"
+
+@fib "The fox {0} out of the well and {1} away. (jump, run)"
+"jumped" "ran"
+
+@fib "My uncle {0} me a gift on my birthday. (give)"
+"gave"
+
+@fib "Shivani {0} her lunch. (take)"
+"took"
+
+@fib "Nirmala {0} the door. (open)"
+"opened"
+
+@fib "We {0} for a walk yesterday. (go)"
+"went"
+
+@fib "Smita {0} a pink frock. (wear)"
+"wore"
+
+@fib "He {0} too quickly and as a result he crashed his new car. (drive)"
+"drove"
+
+@fib "I {0} the house when I was 17 years old. (leave)"
+"left"
+
+@fib "Sally {0} her brother's name wrongly. (spell)"
+"spelled"
+
+@fib "I {0} the books on your desk. (put)"
+"put"
+
+@fib "Yesterday I {0} my pen. (forget)"
+"forgot"
+
+@fib "I {0} the letter twice before I fully understood the message. (read)"
+"read"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

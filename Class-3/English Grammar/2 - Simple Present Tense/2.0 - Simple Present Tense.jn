@@ -70,6 +70,29 @@ chapterName "Simple Present Tense"
 @fib "Amit {0} to the park everyday. (go)"
 "goes"
 
-@fib "The minister {0} on Tyesday. (arrive)"
+@fib "The minister {0} on Tuesday. (arrive)"
 "arrives"
+
+@fib "Our teacher {0} us grammar in the last period. (teach)"
+"teach"
+
+@fib "My grandmother {0} me stories in the night. (tell)"
+"tell"
+
+@fib "Our parents {0} us . (love)"
+"love"
+
+@fib "I {0} up at six a.m. (get)"
+"get"
+
+@fib "Dogs {0} at strangers. (bark)"
+"bark"
+
+
+
+
+
+
+
+
 

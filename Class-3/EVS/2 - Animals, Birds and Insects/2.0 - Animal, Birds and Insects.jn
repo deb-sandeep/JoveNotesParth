@@ -11,7 +11,7 @@ chapterName "Animals, Birds and Insects"
 @true_false "Mountain is a living thing" false
 "Mountain is not alive, hence it is not a living thing"
 
-@true_false "Loin is a living thing" true
+@true_false "Lion is a living thing" true
 
 @qa "Give some example of living things?"
 "Some examples of living things are:

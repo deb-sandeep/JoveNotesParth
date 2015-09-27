@@ -8,7 +8,7 @@ chapterName "My Neighbourhood"
 @fib "A {0} is a person who makes maps"
 "Cartographer"
 
-@fib "People deposit their money a {0}"
+@fib "People deposit their money in a {0}"
 "Bank"
 
 @fib "People living in a same locality are called {0}"

@@ -8,7 +8,7 @@ chapterName "Food"
 @fib "{0} and {1} should also be a part of a balanced diet."
 "Fibre" "water"
 
-@fib "{0} iss the most important meal of the day."
+@fib "{0} is the most important meal of the day."
 "Breakfast"
 
 @fib "We use {0} to add flavour, colour and aroma in food."
@@ -181,5 +181,5 @@ It is used for making idlis, dhoklas, momos, etc.				|It is used for making pako
 @qa "Why do babies drink milk?"
 "Milk is a complete food and helps in growth of bones of the baby"
 
-@qa "Why do old people eat soft and sami-solid food?"
+@qa "Why do old people eat soft and semi-solid food?"
 "Old people can chew soft and semi-solid food easily. They can also digest it more easily than solid food"
