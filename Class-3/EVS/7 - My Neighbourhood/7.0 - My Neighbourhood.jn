@@ -75,14 +75,18 @@ chapterName "My Neighbourhood"
 "They help us to reach a place faster, saves time and develops awareness of a place"
 
 @qa "What do you mean by landmarks?"
-"Landmarks are the well known features of an area, these are helpful to know areas and direction to reach our destination or address
-examples temples, shops, rivers etc."
+"Landmarks are the well known features of an area, these are helpful to know 
+areas and direction to reach our destination or address.
+
+Examples temples, shops, rivers etc."
 
 @qa "Diffentiate between water board and electricity board."
 "
-
-* Water board - It is a place which receives water from river or lake. This water is filtered and then only safe drinking is sent to our homes.
-* Electricity board - It is a place which receives large amount of electric power which is converted into less strong currents and then provided to our homes."
+* Water board - It is a place which receives water from river or lake. This 
+  water is filtered and then only safe drinking is sent to our homes.
+* Electricity board - It is a place which receives large amount of electric 
+  power which is converted into less strong currents and then provided to our 
+  homes."
 
 @match "Match the following:" {
 	"Post office" = "A place from where we send letters and parcels"
@@ -91,7 +95,8 @@ examples temples, shops, rivers etc."
 	"Bank" = "A place to deposit money"
 }
 
-@qa "If your father has to send an urgent money order to his sister in another town, what are the different ways by which he can send it?"
+@qa "If your father has to send an urgent money order to his sister in another 
+town, what are the different ways by which he can send it?"
 "He can send a money order from the post office or he can transfer money from the bank."
 
 
