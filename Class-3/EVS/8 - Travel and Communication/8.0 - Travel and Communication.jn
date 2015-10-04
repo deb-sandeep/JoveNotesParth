@@ -1,0 +1,67 @@
+subject "EVS"
+chapterNumber 8.0
+chapterName "Travel and Communication"
+
+@fib "The sharing and exchanging of information is called {0}."
+"communication"
+
+@fib "Vehicles that transport sick people {0}."
+"ambulance"
+
+@fib "A place to which a person is going or goods are sent {0}."
+"destination"
+
+@true_false "Smiling is a non-verbal mode of communication." true
+
+@true_false "Train is the fastest means of travel." false
+"Aeroplane is the fastest means of travel."
+
+@true_false "It takes atleast two people to communicate." true
+
+@true_false "A person who sends a message is called a receiver." false
+"A person who sends a message is called a sender."
+
+@qa "Find the odd one out and give reasons. 
+
+1. Radio
+2. Television
+3. Gestures
+4. Mobile"
+
+"**Gestures** as its a non-verbal means of communication whereas others are verbal means of communication."
+
+@qa "Find the odd one out and give reasons.
+
+1. Mobile phone
+2. Newspaper
+3. Car
+4. Television"
+
+"**Car** as it is a means of transport whereas others are means of communication."
+
+@fib "Long distance travel:aeroplane::short distance travel:{0}"
+"scooter"
+
+@fib "Blind:verbal communication::{0}:non-verbal communication"
+"deaf"
+
+@qa "Why do we need to communicate?"
+"We need to communicate to express our views, needs, emotions and ideas to others."
+
+@true_false "Communication can happen with one person alone." false
+"Communication can happen atleast between two people."
+
+@true_false "A sender and a receiver are needed for communication." true
+
+@true_false "Questions and answers between people is an example of communication." true
+
+@true_false "When two people do not understand each other, the communication is considered to be broken." true
+
+
+
+
+
+
+
+
+

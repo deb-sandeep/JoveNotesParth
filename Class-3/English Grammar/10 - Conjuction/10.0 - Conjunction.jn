@@ -1,0 +1,47 @@
+subject "English Grammar"
+chapterNumber 10.0
+chapterName "Conjunction"
+
+@tn "A conjunction is a word that joins two nouns, verbs, adjectives or sentences together."
+
+@tn "And - joins together equally."
+
+@tn "Or - gives a choice."
+
+@tn "But - join together sentences that say opposite things."
+
+@rtc {
+	context "Combine the simple sentences using the correct conjunction (and/ but/ or)"
+	
+	@qa "I would like to come. I do not have time."
+	"I would like to come **but** I do not have time."
+	
+	@qa "I own a Mercedes car. I own a Santro car."
+	"I own a Mercedes car **and** a Santro car."
+	
+	@qa "I ate a burger. I ate chips."
+	"I ate a burger **and** chips."
+	
+	@qa "We can either play football. We can play cricket."
+	"We can either play football **or** play cricket."
+	
+	@qa "I saw the movie. I did not understand it."
+	"I saw the movie **but** I did not understand it."
+	
+	@qa "I want to go to school. I am feeling too unwell."
+	"I want to go to school **but** I am feeling too unwell."
+	
+	@qa "You can make a big poster. You can make a little clay statue."
+	"You can make a big poster **or** you can make a little clay statue."
+	
+	@qa "The rabbit went under the fence. The wolf could not follow it."
+	"The rabbit went under the fence **but** the wolf could not follow it."
+	
+	@qa "She likes fruits. She doesn't like vegetables."
+	"She likes fruits **but** she doesn't like vegetables."
+	
+	@qa "Kavita sang my favourite song. Sid played the guitar."
+	"Kavita sang my favourite song **and** Sid played the guitar."
+		
+}
+

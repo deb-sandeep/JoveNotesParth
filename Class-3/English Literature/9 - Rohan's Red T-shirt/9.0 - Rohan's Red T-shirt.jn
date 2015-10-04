@@ -1,0 +1,64 @@
+subject "English Literature"
+chapterNumber 9.0
+chapterName "Rohan's Red T-shirt"
+
+@rtc {
+	context "Who said to whom?"
+	
+	@qa "How many times have I told you to keep your clothes neatly."
+	"Mother told Rohan."
+	
+	@qa "The bolls ripen and turn brown."
+	"Mother told Rohan."
+	
+	@qa "I never knew there was such a long story behind my clothes!"
+	"Rohan said to mother."
+}
+
+@rtc {
+	context "Answer in short."
+	
+	@qa "Why was Rohan's mother fed up?"
+	"Rohan's mother was fed up as he had thrown his clothes on the floor again."
+	
+	@qa "Who were the people who work hard to make clothes available to us?"
+	"Farmers, mill workers, dyers, tailors, shop owners, etc. are the people who work hard to make clothes available to us."
+	
+	@qa "What are bolls?"
+	"After flowering, the cotton flower withers and fall leaving behind pods. They are called bolls."
+}
+
+@wm "Curious"		"Eager to learn or know"
+@wm "Fibres"		"Small threads"
+@wm "Loom"			"A machine that weaves yarn into cloth"
+@wm "Pod"			"A pouch that contains seeds of a plant"
+@wm "Wither"		"Dry up and fall"
+@wm "Yarn"			"A long strand made from many threads twisted together"
+
+@fib "The flowers {0} and {1} but the pods remain."
+"wither" "fall"
+
+@fib "The gin takes out the {0} and {1} from the cotton."
+"seeds" "fibres"
+
+@fib "The yarn is taken to a {0} that turns it into cloth."
+"loom"
+
+@fib "Rohan was {0} to know more about how cotton clothes are made."
+"curious"
+
+@qa "Do you think Rohan would have understood the importance of keeping his clothes neatly, 
+if his mother had scolded him instead of explaining?"
+"Rohan would not have understood the importance of keeping his clothes neatly if his mother had scolded him.
+When he heard how many people work hard to make one t-shirt he understood why his mother was telling him to keep his clothes neatly."
+
+
+
+
+
+
+
+
+
+
+
