@@ -3,54 +3,54 @@ chapterNumber 2.0
 chapterName "Simple Present Tense"
 
 @rtc {
-	context "Answer the questions in the correct tense."
-	
-	@qa "What time do you wake up?"
-	"I wake up at 6:30 a.m."
-	
-	@qa "What time do you go to school?"
-	"I go to school at 8:30 a.m."
-	
-	@qa "What do you like to read?"
-	"I like to read different kinds of books."
-	
-	@qa "Do you exercise regularly?"
-	"Yes, I exercise regularly."
+    context "Answer the questions in the correct tense."
+    
+    @qa "What time do you wake up?"
+    "I wake up at 6:30 a.m."
+    
+    @qa "What time do you go to school?"
+    "I go to school at 8:30 a.m."
+    
+    @qa "What do you like to read?"
+    "I like to read different kinds of books."
+    
+    @qa "Do you exercise regularly?"
+    "Yes, I exercise regularly."
 }
 
-	
+    
 @fib "Amit {0} (bring/brings) a flower for our teacher every day."
-	"brings"
-	
+"brings"
+    
 @fib "Shorya {0} (goes/go) to school every day."
-	"goes"
-	
+"goes"
+    
 @fib "I {0} (exercise/exercises) regularly."
-	"exercise"
-	
+"exercise"
+    
 @fib "Why don't you {0} (wake/wakes) up early?"
-	"wake"
-	
+"wake"
+    
 @fib "He {0} (want/wants) food."
-	"wants"
-	
+"wants"
+    
 @fib "Renu {0} (go/goes) to school."
-	"goes"
-	
+"goes"
+    
 @fib "Pooja and Sonali {0} (write/writes) neatly."
-	"write"
-	
+"write"
+    
 @fib "We {0} (dance/dances) together."
-	"dance"
-	
+"dance"
+    
 @fib "Our teacher {0} (read/reads) every day."
-	"reads"
-	
+"reads"
+    
 @fib "I {0} (brush/brushes) my teeth regularly."
-	"brush"
-	
+"brush"
+    
 @fib "She {0} (cook/cooks) well."
-	"cook"
+"cook"
 
 @fib "Raj {0} patiently for the train. (wait)"
 "waits"
@@ -87,12 +87,3 @@ chapterName "Simple Present Tense"
 
 @fib "Dogs {0} at strangers. (bark)"
 "bark"
-
-
-
-
-
-
-
-
-

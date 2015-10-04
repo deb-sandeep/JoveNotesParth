@@ -3,11 +3,11 @@ chapterNumber 3.0
 chapterName "Subject-Verb Agreement"
 
 @match "Match the subjects with their predicates." {
-"The little girl" = "goes to school."
-"They" = "bring food."
-"All the kites" = "fly in the sky."
-"Zippy" = "sees the kites in China."
-"I" = "am a boy."
+    "The little girl" = "goes to school."
+    "They" = "bring food."
+    "All the kites" = "fly in the sky."
+    "Zippy" = "sees the kites in China."
+    "I" = "am a boy."
 }
 
 @fib "Can you {0} me to clean my car? (helps/is helping/help)"
@@ -31,7 +31,7 @@ chapterName "Subject-Verb Agreement"
 @fib "He {0} tea. (prefer/prefers)"
 "prefers"
 
-@fib "Renu {0} . (study/studies)"
+@fib "Renu {0}. (study/studies)"
 "studies"
 
 @fib "The little boy {0} the girl. (help/helps)"

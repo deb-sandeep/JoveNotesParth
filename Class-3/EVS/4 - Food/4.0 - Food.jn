@@ -128,25 +128,26 @@ It is used for making idlis, dhoklas, momos, etc.				|It is used for making pako
     "Fruit"
  }
  
- @qa "Complete the names of spices using the prompts given below:
+@qa "Complete the names of spices using the prompts given below:
 
 1. Cu
 2. Gi
 3. Cl
 4. Tu"
 "
+1. `Cu`min
+2. `Gi`nger
+3. `Cl`ove
+4. `Tu`rmeric"
 
-1. Cumin
-2. Ginger
-3. Clove
-4. Turmeric"
-
-@qa "Which of the following fuels is the best to use and why? Give reasons for your choice.
+@qa "Which of the following fuels is the best to use and why? Give reasons for 
+your choice.
 
 1. Firewood
 2. Kerosene
 3. Gobar Gas"
-"**Gobar Gas** - It is a natural fuel and does not require to cut trees thus does not create pollution."
+"**Gobar Gas** - It is a natural fuel and does not require to cut trees thus 
+does not create pollution."
 
 @qa "Which of the following methods of cooking requires an Oven.
 
@@ -164,7 +165,8 @@ It is used for making idlis, dhoklas, momos, etc.				|It is used for making pako
 }
 
 @qa "Write the difference between boiling and steaming."
-"Boiling is done by cooking food in boiling water where as steaming is done by cooking food in the steam rising from boiling water."
+"Boiling is done by cooking food in boiling water where as steaming is done by 
+cooking food in the steam rising from boiling water."
 
 @fib "{0} help in body building."
 "Proteins"
@@ -182,4 +184,5 @@ It is used for making idlis, dhoklas, momos, etc.				|It is used for making pako
 "Milk is a complete food and helps in growth of bones of the baby"
 
 @qa "Why do old people eat soft and semi-solid food?"
-"Old people can chew soft and semi-solid food easily. They can also digest it more easily than solid food"
+"Old people can chew soft and semi-solid food easily. They can also digest it 
+more easily than solid food"
