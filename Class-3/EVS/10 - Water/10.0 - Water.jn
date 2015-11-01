@@ -1,0 +1,87 @@
+subject "EVS"
+chapterNumber 10.0
+chapterName "Water"
+
+@true_false "We should leave the water running while applying soap to wash our hands." false
+
+@true_false "We should not take a long bath, instead we should take a quick shower." true
+
+@true_false "We should reuse the water used for washing clothes, to mop the floor." true
+
+@true_false "We should leave the water running, while brushing our teeth." false
+
+@true_false "We should wash utensils in a tub and not under running water." true
+
+@true_false "We should use a bucket of water to wash our car." true
+
+@true_false "Dirty water from homes can be cleaned and reused for reasons other than drinking and eating." true
+
+@true_false "Dirty water from washing your clothes or your dishes can be reused to wash your car." true
+
+@true_false "Leaking taps should be left as it is. A few drops do not really matter anyway." false
+
+@true_false "The water that you use to wash your fruits and vegetables should be used to drink." false
+
+@qa "Describe water harvesting in your own words."
+"When rain water is collected to be purified and used for different purposes, it is called water harvesting."
+
+@fib "The process where water particles convert into vapour {0}."
+"evaporation"
+
+@fib "The process where vapour converts into tiny droplets {0}."
+"condensation"
+
+@fib "Process to reuse dirty water {0}."
+"water conservation"
+
+@rtc {
+	context "Find the odd one out and give reason."
+	
+	@qa "Water harvesting, evaporation, condensation, precipitation"
+	"**Water harvesting** as its a method of conservation of rain water whereas others are stages of water cycle."
+	
+	@qa "River, pond, oceans, underground water."
+	"**Oceans** as they are salty water source whereas others are fresh water sources."
+}
+
+@qa "Differentiate between Evaporation and Condensation."
+"
+Evaporation														|Condensation
+----------------------------------------------------------------|------------------------------------------------------------
+1. Process in which water particles convert into water vapour.	|Process in which gaseous or vapour state changes to liquid.
+2. Eg - drying of wet clothes, drying of wet hair.				|Eg - collection of tiny drops of water on outer surface of 
+																|tumbler containing cold water or ice.
+"
+
+@qa "Differentiate between Water Conservation and Water Purification."
+"
+Water Conservation															|Water Purification
+----------------------------------------------------------------------------|--------------------------------------------------------------
+1. It is a process of saving water by following 3R's-Reduce, reuse, recycle.|It is a process of cleaning dirty water in order to reuse.
+2. It can be performed by rainwater harvesting, water purification, etc..	|It can be done by filtering and adding cleaning chemicals.
+"
+
+@qa "Differentiate between Renewable Source and Non-renewable Source."
+"
+Renewable Source																|Non-renewable Source
+--------------------------------------------------------------------------------|----------------------------------------------------------------
+1. Something which can be made new and fresh again are called renewable source. |Something which can't be made new and fresh again and if once 
+																				|used is lost forever is called non-renewable source.
+2. Eg - water, air, sunlight, etc..												|Eg - Petrol, coal, etc..
+"
+
+@qa "What do you mean by precipitation?"
+"When water droplets which are formed by condensation in the sky fall from the clouds, it is called precipitation."
+
+@qa "Write two steps taken for conservation of water by the government."
+"The steps taken are as follows-
+1. In order to reuse dirty water, many water purification plants are built.
+2. Water harvesting is being provided so that rain water can be collected and used later."
+
+@qa "How can we contribute to conserve water?"
+"We can contribute in following ways-
+1. By not leaving the tap running while brushing our teeth and washing our hands.
+2. By reusing the water used for washing vegetables or clothes.
+3. By checking leakages and fixing them properly.
+4. By preventing the pollution of rivers, by not throwing garbage in or near them."
+

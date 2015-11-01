@@ -45,3 +45,33 @@ chapterName "Conjunction"
 		
 }
 
+@fib "I completely forgot tp study for the big math test, {0} amazingly, I still got all the answers right."
+"but"
+
+@fib "He saved his money for a whole year, {0} he bought himself a new bicycle."
+"and"
+
+@fib "\"Either clean up this room this minute,\"her mother said, \"{0} you're not going to movie tonight!\""
+"or"
+
+@fib "The weather was beautiful, {0} everyone loved the parade."
+"and"
+
+@fib "Would you like Italian {0} Chinese food for dinner?"
+"or"
+
+@fib "Her face was dirty, her clothes were torn, and she was far from the palace, {0} I immediately knew she was the princess."
+"but"
+
+@fib "He was selected \"Student of the Year\" because he got the highest grades, was elected class president, {0} raised the most money in the charity marathon."
+"and"
+
+@fib "I don't have much money left, so I can buy either a pizza {0} my favourite magazine, {1} not both."
+ "or" "but"
+ 
+ @fib "I memorised the whole script before the auditions and acted my heart and soul out for the director, {0} I still didn't get a part in the play."
+ "but"
+ 
+ @fib "I can't decide which dog to adopt from the animal rescue league: the pretty Pomeranian {0} the dashing Dalmatian."
+ "or"
+ 

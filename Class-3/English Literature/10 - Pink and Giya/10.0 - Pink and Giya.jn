@@ -1,0 +1,27 @@
+subject "English Literature"
+chapterNumber 10.0
+chapterName "Pink and Giya"
+
+@qa "Who said to whom: Oh my! Your wing is hurt, isn't it."
+"Giya said to the injured bird."
+
+@qa "Who said to whom: Is that a pink crest on that bird?"
+"Giya said to herself."
+
+@qa "Who said to whom: Thanks you, Pink."
+"Giya said to the bird."
+
+@qa "What did Giya's father gift her for the birthday?"
+"Giys's father gifted her a brand new kite for her birthday."
+
+@qa "How did the kite get stuck in the tree?"
+"As the kite began to fly high, a great gust of wind blew the kite out of control and thus it got stuck in the tree."
+
+@qa "Do you think the bird that helped Giya find her kite was the same bird that Giya helped? Why?"
+"Yes, I think it was the same bird that Giya helped many years ago.The bird had the same pink crest. It remembered that Giya had helped it,
+and that is why it helped Giya."
+
+@qa "Why do you think Giya decided to become a veterinarian?"
+"I think Giya decided to become a veterinarian because she loved animals and birds and enjoyed taking care of them."
+
+

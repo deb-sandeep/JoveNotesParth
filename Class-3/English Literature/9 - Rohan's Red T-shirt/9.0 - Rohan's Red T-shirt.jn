@@ -47,13 +47,29 @@ chapterName "Rohan's Red T-shirt"
 @fib "Rohan was {0} to know more about how cotton clothes are made."
 "curious"
 
-@qa "Do you think Rohan would have understood the importance of keeping his clothes neatly, 
-if his mother had scolded him instead of explaining?"
+@qa "Do you think Rohan would have understood the importance of keeping his clothes neatly, if his mother had scolded him instead of explaining?"
 "Rohan would not have understood the importance of keeping his clothes neatly if his mother had scolded him.
 When he heard how many people work hard to make one t-shirt he understood why his mother was telling him to keep his clothes neatly."
 
+@qa "Name 2 materials used to make clothes."
+"Silk, cotton."
 
-
+@rtc {
+	context "Use the word 'and' to combine the sentences."
+	
+	@qa "Cotton is used to make T-shirts. Cotton is used to make scarves."
+	"Cotton is used to make T-shirts and scarves."
+	
+	@qa "Cotton is soft to touch. Silk is soft to touch."
+	"Cotton and silk are soft to touch."
+	
+	@qa "Rohan folded his T-shirt. Rohan cleaned his room."
+	"Rohan folded his T-shirt and cleaned his room."
+	
+	@qa "Farmers work hard. Mill workers work hard."
+	"Farmers and mill workers work hard."
+	
+}
 
 
 

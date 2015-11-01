@@ -1,0 +1,54 @@
+subject "EVS"
+chapterNumber 9.0
+chapterName "Work and Play"
+
+@true_false "We should be strict with children working in our homes." false
+"Children should not be employed for work in homes."
+
+@true_false "Sleeping and eating is also considered as work." true
+
+@true_false "A carpenter uses needle and thread." false
+"A carpenter uses saw and hammer.
+A tailor uses needle and thread."
+
+@fib "Nurse:hospital::chef:{0}"
+"restaurant"
+
+@fib "Washing utensils:work::playing:{0}"
+"leisure"
+
+@fib "Rake:gardener::{0}:firefighter"
+"hose"
+
+@qa "Differentiate between Work time and Leisure time."
+"
+Work Time														|Leisure Time
+----------------------------------------------------------------|---------------------------------------------------------------------------------
+1. The time period which we use to do things we are bound to do.|The time period which we utilise to do activities which makes us happy and relax.
+2.Eg - teaching, sweeping, studying, etc..						|Eg - playing, singing, dancing, etc..
+"
+
+@qa "What is a profession?"
+"A profession is an occupation or a job for which a person is paid. A special training is required to become a professional. A professional is a 
+person related to any profession. Eg - doctor, engineer, cobbler, teacher, etc."
+
+@qa "Who are community helpers?"
+"Community helpers are the people who help the people of the place they live in.Eg - sweeper, butcher, teacher, postman, etc.."
+
+@qa "Enlist few contributions of community helpers."
+"Few contributions are as follows-
+1. Eradicating crime. Eg- police, judge, watchman.
+2. Providing safety. Eg- soldiers, firefighters, traffic police, etc..
+3. Educating society. Eg- teachers, professors, etc..
+4. Providing help with daily or basic requirements. Eg- barber, cobbler, plumber, electrician, gardener, tailor, etc.."
+
+@qa "Classify the following in leisure time (LT) and work time (WT): dancing, cooking, studying, painting."
+"
+1. LT: dancing, painting.
+2. WT: cooking, studying."
+
+@qa "Classify the following in profession inside the house (PIH) and profession outside the house (POH): dentist, housemaid, barber, cook."
+"
+1. PIH: housemaid, cook.
+2. POH: dentist, barber."
+

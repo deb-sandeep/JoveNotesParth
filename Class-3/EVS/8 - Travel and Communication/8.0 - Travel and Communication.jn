@@ -57,8 +57,46 @@ chapterName "Travel and Communication"
 
 @true_false "When two people do not understand each other, the communication is considered to be broken." true
 
+@qa "State the differences between Verbal and Non-verbal communication."
 
+"
+Verbal Communication													|Non- verbal Communication
+------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------
+Expressing ourselves through speech is called verbal communication.		|Expressing ourselves with the help of gestures, expression in the eyes and on the face and through movement of body parts or postures.
+Blind people mostly rely on this.										|Deaf/mute people mostly rely on this and is called a sign language.
+"
 
+@qa "Why do we travel?"
+"We need to travel for various reasons, some of them are as follows:
+1. To meet our relatives and friends.
+2. To go to school or work.
+3. To visit new places (on vacation).
+4. For our daily needs (food, clothes, etc.).
+5. In case of emergency (flood, doctor, hospital).
+"
+
+@qa "Why do we need to communicate?"
+"We need to communicate-
+1. To share our thoughts and feelings with our near and dear ones.
+2. To exchange information, remain alert of possible dangers (storm) through news and knowledge sources.
+To motivate individual or society for recreation.
+"
+
+@rtc {
+	context "Name the means of communication (other than phone or mobiles) you will use to communicate in the following situation."
+	
+	@qa "Asking a question to your teacher."
+	"Speak."
+	
+	@qa "Inviting your friend to your birthday."
+	"Letter/ invitation card/ e-mail."
+	
+	@qa "Informing everybody in the city about the spread of dengue fever."
+	"newspaper/ t.v."
+	
+	@qa "Communicating to a person who cannot hear."
+	"Sign language."
+} 
 
 
 
