@@ -3,12 +3,14 @@ chapterNumber 10.0
 chapterName "Water"
 
 @true_false "We should leave the water running while applying soap to wash our hands." false
+"We should not leave the water running while applying soap to wash our hands"
 
 @true_false "We should not take a long bath, instead we should take a quick shower." true
 
 @true_false "We should reuse the water used for washing clothes, to mop the floor." true
 
 @true_false "We should leave the water running, while brushing our teeth." false
+"We should not leave the water running, while brushing our teeth"
 
 @true_false "We should wash utensils in a tub and not under running water." true
 
@@ -19,8 +21,11 @@ chapterName "Water"
 @true_false "Dirty water from washing your clothes or your dishes can be reused to wash your car." true
 
 @true_false "Leaking taps should be left as it is. A few drops do not really matter anyway." false
+"Leaking tabs should be fixed as every drop of water matters"
 
 @true_false "The water that you use to wash your fruits and vegetables should be used to drink." false
+"The water that you use to wash your fruits and vegetables should not be used to drink as it might have dirt.
+It can instead be used for washing the car or watering the garden"
 
 @qa "Describe water harvesting in your own words."
 "When rain water is collected to be purified and used for different purposes, it is called water harvesting."
@@ -48,8 +53,8 @@ chapterName "Water"
 "
 Evaporation														|Condensation
 ----------------------------------------------------------------|------------------------------------------------------------
-1. Process in which water particles convert into water vapour.	|Process in which gaseous or vapour state changes to liquid.
-2. Eg - drying of wet clothes, drying of wet hair.				|Eg - collection of tiny drops of water on outer surface of 
+1. Process in which water particles convert into water vapour.	|1. Process in which gaseous or vapour state changes to liquid.
+2. Eg - drying of wet clothes, drying of wet hair.				|2. Eg - collection of tiny drops of water on outer surface of 
 																|tumbler containing cold water or ice.
 "
 
@@ -57,8 +62,8 @@ Evaporation														|Condensation
 "
 Water Conservation															|Water Purification
 ----------------------------------------------------------------------------|--------------------------------------------------------------
-1. It is a process of saving water by following 3R's-Reduce, reuse, recycle.|It is a process of cleaning dirty water in order to reuse.
-2. It can be performed by rainwater harvesting, water purification, etc..	|It can be done by filtering and adding cleaning chemicals.
+1. It is a process of saving water by following 3R's-Reduce, reuse, recycle.|1. It is a process of cleaning dirty water in order to reuse.
+2. It can be performed by rainwater harvesting, water purification, etc..	|2. It can be done by filtering and adding cleaning chemicals.
 "
 
 @qa "Differentiate between Renewable Source and Non-renewable Source."
@@ -75,11 +80,13 @@ Renewable Source																|Non-renewable Source
 
 @qa "Write two steps taken for conservation of water by the government."
 "The steps taken are as follows-
+
 1. In order to reuse dirty water, many water purification plants are built.
 2. Water harvesting is being provided so that rain water can be collected and used later."
 
 @qa "How can we contribute to conserve water?"
 "We can contribute in following ways-
+
 1. By not leaving the tap running while brushing our teeth and washing our hands.
 2. By reusing the water used for washing vegetables or clothes.
 3. By checking leakages and fixing them properly.
