@@ -1,0 +1,25 @@
+subject "English Literature"
+chapterNumber 12.0
+chapterName "The Assembly Medal"
+
+@wm "Block"		"Using the body to stop the movement of another player in sports."
+@wm "Grinned"	"A wide smile that shows the teeth."
+@wm "Patch"		"A small area of land."
+@wm "Shudder"	"To tremble or shiver suddenly."
+@wm "Tae Kwon Do"	"A form of karate from Korea."
+
+@qa "Who said to whom: I dream of the day I'll be on the stage."
+"Rahul whispered to Ricky."
+
+@qa "Who said to whom: I think we're almost there! Very close to the medal!"
+"Ricky said to Rahul."
+
+@qa "Who said to whom: I am proud to tell you that the two heroes of this story are right here."
+"Principal addressed all the school children."
+
+@qa "Why did Meera get a medal?"
+"Meera got a medal for being the fastest runner in class III."
+
+@qa "Which martial art did Rahul and Ricky practised?"
+"Rahul and Ricky practised Tae Kwon Do."
+

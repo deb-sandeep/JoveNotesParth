@@ -52,3 +52,25 @@ person related to any profession. Eg - doctor, engineer, cobbler, teacher, etc."
 1. PIH: housemaid, cook.
 2. POH: dentist, barber."
 
+@qa "List four activities that you do in your working time."
+"Read, write, do my homework, participating in class discussions."
+
+@qa "List the names of people who work in your home and describe what they do for you."
+"1. Housemaid: Sweeps and mops our floor in the house.
+2. Milkman: Gives milk to us everyday.
+3. Cook: Cooks food for us.
+4. Gardener: Takes care of our plants."
+
+@qa "If you had a child working at your home, what steps would you take to care for him or her?"
+"We should understand their feelings and should help them as much as we can.
+We should give them enough time to rest and treat them with patience and affection.
+We can teach them to read or write in our free time."
+
+@true_false "We should make a child do all our work." false
+
+@true_false "We should give him or her a comfortable bed to sleep on." true
+
+@true_false "We should always keep him or her locked inside the house." false
+
+@true_false "We should teach him or her how to read and write in our free time." true
+

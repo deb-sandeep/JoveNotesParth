@@ -1,0 +1,24 @@
+subject "English Literature"
+chapterNumber 15.0
+chapterName "Another Day"
+
+@qa "Identify and write the rhyming words from the poem."
+"Giggle-squiggle, clap-slap, wall-all, din-in, sound-underground, creeps-sleeps, be-tea, belly-telly, away-day."
+
+@qa "Write the words from the poem that describe sound."
+"Bell, clap, slap, bang, din, giggle and squeak."
+
+@wm "Din"	"A loud continued noise."
+@wm "Flee"	"To run away or escape."
+@wm "Giggle"	"To laugh in a silly way between short breaths."
+@wm "Suiggle"	"A short curvy line or mark."
+
+@true_false "The poem describes the day at the park."false
+
+@true_false "Sara Williams always win the skipping rope competition."true
+
+@true_false "Students are very excited after the lunch break."true
+
+@true_false "Mumma gets chips and tea."true
+
+

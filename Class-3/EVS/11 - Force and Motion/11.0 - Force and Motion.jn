@@ -1,0 +1,133 @@
+subject "EVS"
+chapterNumber 11.0
+chapterName "Force and Motion"
+
+@rtc {
+	context "Identify the object on which force is acting. Write one line on how the force is affecting the object."
+	
+	@qa "The boy is pushing a cart."
+	"Object: Cart
+Effect: Starting the cart."
+
+@qa "Mother is pushing the swing."
+"Object: Swing or a girl sitting on the swing.
+Effect: Swing starts moving to and fro from its position."
+
+@qa "The girl is catching the ball."
+"Object: Ball
+Effect: Ball stops moving."
+
+@qa "A man is hammering a nail."
+"Object: Nail
+Effect: The nail will go inside the wood."
+
+@qa "A boy is hitting a ball."
+"Object: Ball
+Effect: The ball will change its direction and go faster."
+
+@qa "A girl is squeezing a lemon."
+"Object: Lemon
+Effect: The juice inside the lemon is coming out."
+
+}
+
+@qa "Give two examples where you find contact and non-contact forces in action."
+"Contact Force: 1. Leaf blown away by the wind.
+				2. Kicking a football.
+
+Non-contact Force: 1. Magnet attracting nails.
+				   2. Object when thrown up comes down due to gravity."
+				   
+ @fib "{0} is the capability of a body to exert force."
+ "Energy"
+ 
+ @fib "{0} of the Earth causes day and night."
+ "Rotation"
+ 
+ @fib "A ball falls on the ground due to the force of {0}."
+ "gravity"
+ 
+ @fib "A merry go round follows {0} movement."
+ "circular"
+ 
+ @qa "Find the odd one out and give reasons.
+
+1. A moving top
+2. Moving fan
+3. Moving pendulum."
+
+"**A moving pendulum** as it is in an oscillating motion whereas others are in rotating/spinning motion."
+
+@qa "Find the odd one out and give reasons.
+
+1. Stretching a rubber band
+2. Rolling chappati
+3. Hitting a ball with a bat."
+"**Hitting a ball with a bat** as here the force is changing direction of the motion whereas other forces are changing speed."
+
+@fib "Moving fan:rotation::bungee jumping:{0}"
+"bouncing"
+
+@fib "Pushing a table:contact force::iron nails attracting towards magnet:{0}"
+"non-contact force"
+
+@fib "Kicking a ball:push::stretching a rubber band:{0}"
+"pull"
+
+@qa "Differentiate between Contact force and Non-contact force."
+"Contact Force									|Non-contact Force
+------------------------------------------------|-------------------------------------------------------
+												|
+1. Forces that can be applied only by bringing  |Forces that can be applied without bringing the things 
+the thing in contact are called contact forces. |in contact (i.e. from a distance) are called non-contact
+												|forces.
+2. Eg: Hammering a nail, pushing a chair.		|Eg: Free fall of a ball (from a height),iron nails getting
+												|attracted to a magnet.
+"
+
+@qa "Differentiate between rotation, revolution, oscillation."
+
+"Rotation: When an object spins or turns again and again while standing at a fixed point is called Rotation.
+Eg: Day and night occurrence, a moving top.
+
+Revolution: When an object moves around a fixed point in a circular path, it is called Revolution.
+Eg: Earth revolves around the sun.
+
+Oscillation: When an object moves to and fro from a fixed point on both sides from a fixed point from its central position,
+it is called Oscillation. Eg: pendulum or swing."
+
+@qa "What are the various effects of force?"
+"The various effects of force are as follows:
+
+1. Change in shape.
+2. Change in direction.
+3. Change in size (decreases and increases).
+4. Can move a body from rest.
+5. Can stop a moving body."
+
+@qa "What are the various types of motion? Give one example of each."
+"1. Spinning or rotation - a moving fan.
+2. Bouncing - jumping on trampoline.
+3. Revolution - movement of giant wheels.
+4. Oscillation - pendulum."
+
+@rtc{
+	context "Give examples."
+	
+	@qa "Force changes speed."
+	"1. Air slows down.
+2. Applying brakes causes decrease in speed of a wheel."
+
+@qa "Force changes direction."
+"1. Footballer kicking a ball.
+2. Opening of a door."
+
+@qa "Force changes shape."
+"1. Rolling chapppati.
+2. Moulding play dough.
+3. Stretching rubberband."
+
+}
+
+
+

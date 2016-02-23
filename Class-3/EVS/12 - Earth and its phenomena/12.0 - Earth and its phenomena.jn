@@ -1,0 +1,66 @@
+subject "EVS"
+chapterNumber 12.0
+chapterName "Earth and its phenomena"
+
+@true_false "The revolution of the Earth takes one year's time." true
+
+@true_false "If we stand facing towards the sun in the morning our face is towards the East and left hand is towards the South." false
+"I we stand facing towards the sun in the morning our face is towards the East and left hand is towards North."
+
+@true_false "The Earth is spherical in shape." false
+"The Earth is an oblate spheroid in shape."
+
+@true_false "Study of objects in the sky is called Astronomy." true
+
+@qa "Find the odd one out and give reasons:
+1. Oscillation
+2. Rotation
+3. Revolution"
+"**Oscillation** as the Earth is revolving and rotatingbut not oscillating."
+
+@qa "Find the odd one out and give reasons:
+1. North East
+2. North West
+3. South East
+4. South Pole"
+"**South Pole** as others are subdirections whereas South pole is not."
+
+@fib "An imaginary line which passes through the Earth's centre between Northpole and Southpole is called {0}."
+"axis"
+
+@fib "The Earth moves around the sun in a fixed imaginary path called the {0}."
+"orbit"
+
+@qa "Differentiate between Rotation of Earth and Revolution of Earth."
+"Rotation of Earth							 |Revolution of Earth							
+---------------------------------------------|----------------------------------------------------
+1. The spinning or turning of the Earth on 	 |The movement of the Earth on a circular path (orbit)
+its own axis is called Rotation of the Earth.|around the sun is called Revolution of the Earth.
+2. It takes around 24 hours.				 |It takes 365 days and 6 hours.
+3. It cause day and night on the Earth.		 |It causes different seasons on Earth."
+
+@qa "Differentiate between Axis of the Earth and Equator of the Earth."
+"Axis of the Earth							 |Equator of the Earth
+---------------------------------------------|---------------------------------------------------------
+1. An imaginary line which passes through the|An imaginary line which divides the Earth into two
+Earth's centre between North pole and South  |equal halves.
+pole.										 |
+2. Diag.									 |Diag.
+"
+
+@qa "Do all places on the Earth have the same seasons at the same time? Explain your answer in words and
+with the help of a diagram."
+"All the places on earth do not have the same season at the same time. As the Earth revolves around the 
+sun, it continues to rotate about its axis at one angle. This means that its axis is tilted towards the 
+sun for a part of the year and tilted away for another part of the year. The part which is tilted 
+towards the sun experiences summer while the another part which is tilted away experiences winter.(Diag.)"
+
+@qa "How would you identify the direction if you are in the middle of the sea, in the morning time and 
+if you do not have a magnetic compass?"
+"While facing the sun in the morning we can identify East towards our face and West behind us.
+Our left hand would point towards North and right hand towards South. Once we identify our directions 
+we can easily find the directions also."
+
+@qa "Draw and describe the shape of the Earth."
+"The shape of the Earth is an oblate spheroid which means the Earth is slightly wider at the equator 
+than it is at the poles, i.e. it is slightly flatter at poles and bulging at the equator."

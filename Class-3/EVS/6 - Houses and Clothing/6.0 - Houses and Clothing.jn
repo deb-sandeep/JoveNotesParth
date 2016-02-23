@@ -1,0 +1,45 @@
+subject "EVS"
+chapterNumber 6.0
+chapterName "Houses and Clothing"
+
+@fib "{0} on windows keep away flies and mosquitoes."
+"Wire meshes"
+
+@fib "A good house should have many {0} to let sunlight and fresh air in."
+"windows"
+
+@fib "Clothes have to be {0} based on texture before washing."
+"sorted"
+
+@fib "{0} in Mumbai has the largest outdoor hand washing facility."
+"Dhobi Ghat"
+
+@qa "Give reasons why clothes are sorted by colour before washing ?"
+"Clothes are sorted by colour before washing as dark and light because the light coloured clothes 
+might get stained by dark patches."
+
+@qa "Give reasons why ventilation is necessary for a good house?"
+"Ventilation is necessary for a good house as it keeps the house bright and fresh and also allows 
+plenty of sunlight."
+
+@qa "Joe washes his shirt everyday after coming from school.Why?"
+"Joe washes his shirt because clothes once worn are no longer clean as they get dirty by collecting sweat
+and dust.if not washed they will begin to smell bad and look untidy."
+
+@qa "Mention four qualities of a good house."
+"A good house should have-
+1. Enough sunlight.
+2. Proper ventilation.
+3. Good Sanitation.
+4. Safety."
+
+@qa "What are the ways keeping your house clean?"
+"The following are the ways to keep our house clean-
+1. Trash should be thrown in dustbins, which should be covered at all times.
+2. Floors should be mopped everyday.
+3. Bathrooms and toilets should be cleaned regularly.
+4. Drains in the bathroom and kitchen should be covered to keep away insects and flies.
+5. Food should always be covered or kept in the refrigerator.
+6. Dishes should be washed right after being used.
+7. Everything must be kept in its own place to make the house look tidy."
+
