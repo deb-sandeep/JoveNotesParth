@@ -1,0 +1,58 @@
+subject "English Literature"
+chapterNumber 13.0
+chapterName "Eat healthy and feel great"
+
+@wm "Appreciate"	"Understand and accept something"
+@wm "Diet"			"The food and drink usually had by a person"
+@wm "Junk"			"Anything that does not have much value"
+@wm "Nutrients"		"Something in food that helps people grow and stay healthy"
+
+@fib "We must eat a {0} to keep our body healthy."
+"balanced diet"
+
+@fib "Burgers, pizzas and chocolates are all {0} food."
+"junk"
+
+@fib "Fruits and vegetables have many {0}."
+"nutrients"
+
+@fib "Once you start eating healthy food, your tongue will start {0} its taste."
+"appreciating"
+
+@rtc {
+	context "Write Fact or Opinion in front of each sentence."
+	
+	@qa "We should not eat too much junk food."
+	"Opinion"
+	
+	@qa "Green vegetables have many vitamins and minerals in them."
+	"Fact"
+	
+	@qa "Running is a great form of exercise!"
+	"Opinion"
+	
+	@qa "Swimming makes your muscles stronger."
+	"Fact"
+	
+}
+
+@qa "Name any three junk foods and any three healthy foods."
+"1. Junk Food: Burger, pizza and chocolate.
+2. Healthy Food: Carrot, beetroot and tomato."
+
+@qa "We must eat healthy food. Write two facts to support this opinion."
+"1. Healthy food keeps our body healthy.
+2. Healthy food helps to fight sickness."
+
+@qa "What is a balanced diet?"
+"A balanced diet is that which contains right amount of carbohydrates, proteins, vitamins, minerals, fats, 
+roughage and water."
+
+@qa "Why did the girl lose the race?"
+"The girl lost the race because she felt too weak to run."
+
+@qa "Which is your favourite food? Should you eat it everyday? Why?"
+"My favourite food is Dosa. I should not eat it everyday because it doesn't have proteins and vitamins which 
+we need a lot but has fats and carbohydrates which we don't need much. So, eating it everyday will make 
+me sick and unhealthy."
+

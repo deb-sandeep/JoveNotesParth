@@ -16,7 +16,7 @@ chapterName "Earth and its phenomena"
 1. Oscillation
 2. Rotation
 3. Revolution"
-"**Oscillation** as the Earth is revolving and rotatingbut not oscillating."
+"**Oscillation** as the Earth is revolving and rotating but not oscillating."
 
 @qa "Find the odd one out and give reasons:
 1. North East
@@ -64,3 +64,17 @@ we can easily find the directions also."
 @qa "Draw and describe the shape of the Earth."
 "The shape of the Earth is an oblate spheroid which means the Earth is slightly wider at the equator 
 than it is at the poles, i.e. it is slightly flatter at poles and bulging at the equator."
+
+@qa "Explain how day and night occur on the Earth?"
+"As the Earth rotates about its imaginary axis, the sides of the Earth that is facing the sun experiences day while that part 
+which is away from the sun experiences night."
+
+@qa "How would days and nights be affected if the Earth were to be flat?"
+"Whole Earth will experience day only."
+
+@match "Match the columns" {
+	"Moon"	= "revolves around the Earth"
+	"Earth"	= "revolves around the Sun"
+	"Sun"	= "does not revolve around the Earth"
+}
+

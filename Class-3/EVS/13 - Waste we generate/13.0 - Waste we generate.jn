@@ -1,0 +1,100 @@
+subject "EVS"
+chapterNumber 13.0
+chapterName "Waste we generate"
+
+@true_false "Old shoes and clothes also contribute to waste." true
+
+@true_false "All kinds of plastic can be recycled and used again." false
+"All kinds of plastics cannot be recycled."
+
+@true_false "Disposing waste properly increase the amount of toxin in the atmosphere." false
+"Disposing waste properly reduces the amount of toxin in the atmosphere."
+
+@qa "Define Landfill."
+"It is a place where waste and garbage are accumulated.It is the oldest form of waste disposal.It contains 
+hazardous and non-biodegradable materials."
+
+@qa "Define waste sit time."
+"It is the time period for which garbage is left in the bin."
+
+@qa "Define waste."
+"Material that are no longer needed and hence have to be thrown away."
+
+@qa "Differentiate between Biodegradable waste and Non-Biodegradable waste."
+"Biodegradable waste								|Non-Biodegradable waste
+----------------------------------------------------|---------------------------------------------------
+1. Waste which can be broken down over a period of 	|Waste which cannot be broken down over a period
+time with the help of micro-organisms.				|of time.
+2. They change and mix with soil.					|They remain unchanged for hundreds of years.
+3. They don't cause pollution.						|They accumulate on Earth and cause pollution.
+4. Eg- vegetable peels, pencil shavings, paper, 	|Eg- plastic, metal, glass, chemical waste, etc.
+cotton clothes, etc.								|
+"
+
+@qa "What is recycling waste?"
+"When an old item is transformed into new item by sending it to recycle centre is called recycling.
+Eg- old plastic or metal item can be casted into new things."
+
+@qa "What is reusing waste?"
+"To reuse items incase it is of no use for a person.Eg- donating clothes or shoes to someone else."
+
+@qa "What is reducing waste?"
+"To produce less waste is called as reducing waste.Eg- No use or less use of plastic bags to reduce 
+production of plastic waste on Earth."
+
+@qa "What are waste material? Enlist names of waste created by us."
+"The unwanted substances released at different stages of production and consumption of goods are called 
+waste material. The different categories of waste we create are-
+1. Biodegradable
+2. Non-Biodegradable
+3. Recyclable
+4. Reusable
+5. Hazardous (medical, chemical, electrical, industrial, etc.)."
+
+@qa "What is a compost pit?"
+"A compost pit is a pit in which dead plants, animal waste like cowdung and kitchen waste can be 
+decomposed or broken down naturally by micro-organisms (bacteria and fungi). They then are converted 
+into manure and used in fields as a natural fertiliser."
+
+@qa "Why is it necessary to dispose the waste material properly?"
+"By disposing waste properly we can reduce the amount of waste accumulation thus reducing the amount of 
+toxin entering into the environment. For preventing almost all kinds of pollution effective waste 
+management is required."
+
+@qa "Classify the waste into types of waste and steps to dispose them."
+"Waste					|Types of waste				|Steps to dispose
+------------------------|---------------------------|----------------------------------------------------
+1. Medicine (Hazardous)	|Household, school			|Take out of date or unwanted medicines to your 
+						|							|local pharmacy which will dispose off them safely.
+2. Tubelights or bulbs	|Household,school,industries|They should be taken to the local waste and 
+(Hazardous)				|							|recycling centre.
+3. Chalk dust/ pieces	|School						|They can be used for lining athletic field or 
+						|							|can be disposed off along with other waste.
+4. Glass, plastic,paper,|Household,school,industries|They should be taken to the local waste or 
+metal (Hazardous)		|							|recycling centre.
+"
+
+@qa "Suggest 3 ways of reducing waste in your school."
+"1. We can try to reduce wastage of paper.
+2. Exam papers and other school circulars can be used as recycled paper.
+3. School benches and other similar items can be recycled."
+
+@qa "What happens to the garbage produced in your school?"
+"Some are recycled and some are put in compost pit. Those left out of these two categories are thrown 
+in landfill."
+
+@qa "Explain how Industrial waste affect our surroundings?"
+"1. Pollutes and harms our natural resources and local water bodies.
+2. The ill affects of these waste on our health can be dangerous and can cause severe diseases."
+
+@qa "Explain how Domestic waste affect our surroundings?"
+"1. Heaps of domestic waste are responsible for foul smell in surrounding.
+2. They act as breeding grounds for flies and mosquitoes and cause severe diseases like malaria and 
+diarrohea."
+
+@qa "Explain how Plastic waste affect our surroundings?"
+"1. It is a non-biodegradable waste, it can choke our drains.
+2. It causes death of various animals that consume it by mistake.
+3. Burning polythene bags is a major source of air pollution."
+
+

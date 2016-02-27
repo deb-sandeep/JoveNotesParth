@@ -1,0 +1,10 @@
+subject "English Literature"
+chapterNumber 14.0
+chapterName "Seema is missing"
+
+@wm "Confirm"		"To prove that something is true"
+@wm "Grumpy"		"Somebody who is in a bad mood"
+@wm "Kidnapped"		"To take away someone without permission"
+@wm "Mess"			"A dirty and untidy place or a way of keeping things"
+@wm "Searching"		"To look for"
+
