@@ -1,0 +1,104 @@
+subject "EVS"
+chapterNumber 2.0
+chapterName "Uses of plants"
+
+@match "Which parts of the plants are these?"{
+"Turnip" = "Root"
+"Ginger" = "Stem"
+"Cabbage" = "Leaf"
+"Broccoli" = "Flower"	
+}
+
+@qa "While eating potato chips, Ram asked Mahesh: Where does the oil for frying potato chips come from? What should Mahesh say?"
+"Mahesh should say: The oil used for frying potato chips is edible vegetable oil. So this means that the oil comes from plants."
+
+@qa "Why do we use saffron and rosewater in our food? Where do they come from?"
+"Rosewater, saffron and vanilla essence are used to add flavour and scent to foods and we get these from plants too."
+
+@qa "Which trees give us wood to make furniture?"
+"We get logs of wood by cutting the trunks of teak, sal and sheesham trees. These logs are used for making furniture and houses."
+
+@qa "List some medicinal plants."
+"Tulsi, neem and turmeric are medicinal plants."
+
+@qa "Which part of the rubber plant is rubber made from?"
+"We use sap from rubber plant to make rubber that can be used to make tyres."
+
+@qa "How do animals depend on plants?"
+"Animals depend upon plants for-
+1. Building homes.
+2. Providing them shelter from weather and predators.
+3. Providing them food.
+4. For oxygen."
+
+@qa "Can Van Mahotsav replace the loss that we have already suffered by cutting trees? Why?"
+"Yes, Van Mahotsav can replace the loss that we have already suffered by cutting trees to a certain extent. If we keep planting trees,
+in future may be  we can completely recover the loss."
+
+@qa "How is using sugarcane stem to make sugar different from using lotus stem to make a dish?"
+"Lotus stem can be used directly to make dish whereas sugarcane juice is extracted from the sugarcane stem and converted to sugar in factories,
+it can't be used directly."
+
+@fib "Complete the table. 
+
+Food item		    |Which part of the |Is it a vegetable/fruit/spice/	|
+					|plant is used?	   |beverage/herb/nut/oil?			|
+--------------------|------------------|--------------------------------|
+Broccoli			| {0}			   | {1}							|
+Sesame Oil			| {2}			   | {3}							|
+Pistachio			| {4}			   | {5}							|
+Basil/Tulsi			| {6}			   | {7}							|
+Coffee				| {8}			   | {9}							|
+Cinnamon			| {10}			   | {11}							|
+------------------------------------------------------------------------|		
+"
+"Flower, Vegetable, Seed, Oil, Seed, Nut, Leaf, Herb, Seed, Beverage, Bark, Spice"
+
+@rtc {
+	context "Write examples of plants that give us the following things."
+	
+	@qa "Flowers"
+	"Rose, jasmine"
+	
+	@qa "Medicines"
+	"Tulsi, neem"
+	
+	@qa "Wood for furniture"
+	"Teak, sal"
+	
+	@qa "Fibre"
+	"Cotton, jute"
+	
+	@qa "Oil"
+	"Sesame plant, sunflower"
+	
+	@qa "Paper"
+	"Pine tree, bamboo tree"
+	
+}
+
+@qa "Yahsoda fell and hurt her knee. Her mother gave her milk with turmeric. Why is it advisable for someone who has gotten hurt,
+to drink milk with turmeric?"
+
+"Turmeric helps to cure wounds and cuts. So it is advisable for someone who has got hurt to drink milk with turmeric.
+Turmeric is also used to make medicine."
+
+@qa "How do plants help in bringing rain?"
+"Plants absorb the water to make food. The excess water is given out through pores in the leaves, the water evaporates and becomes water cycle 
+which brings rains."
+
+@qa "Imagine that you are a  squirrel! Write a paragraph telling how important plants are for your survival."
+"I would need plants for my food as i am a herbivore. I will build my home in the hollows of the trees. Also, I would need plants or bushes
+to hide myself from predators."
+
+@qa "Write five sentences to state how animals depend on plants."
+"1. Holes in trees provide shelter to many snakes.
+2. Plants protect animals from predators.
+3. Plants provide oxygen for the survival of animals.
+4. Herbivores depend on plants for food.
+5. Birds use old leaves and twigs to build nests."
+
+@qa "Plants also depend on animals. Do you agree? Give reasons."
+"Animals breathe out carbondioxide which is used by plants to make their food. The animals also carry their seeds from one place to another place.
+animals give manure to plants. Some plants also eat insects (insectivorous plants)."
+

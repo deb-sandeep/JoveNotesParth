@@ -1,0 +1,81 @@
+subject "EVS"
+chapterNumber 1.0
+chapterName "More about flowers"
+
+@qa "Give 2 examples of flowers that grow in clusters."
+"Sweet Wiliam and Hydrangea flowers."
+
+@qa "Give 2 examples of yellow flowers."
+"Marigold and Sunflower."
+
+@qa "Give 2 examples of flowers that have a strong fragrance."
+"Tube rose flower and queen of the night flower."
+
+@qa "Give 2 examples of Star-shaped flowers."
+"Jasmine and Daisy."
+
+@qa "Why is spring called the season of flowers? Name any 5 flowers that bloom in spring."
+"During spring the weather becomes quite pleasant and provides the flowers with required temperature to bloom, hence it is called the
+season of flowers. Eg: Lily, Tulip, Sweet pea, Periwinkle and Bougainvillea flowers bloom in spring."
+
+@qa "What is the difference between flowers that bloom in the day and those bloom at night?"
+"Flowers that bloom in night					| Flowers that bloom in day
+ -----------------------------------------------|------------------------------------------------------
+1. They are usually small in size.				| They are usually big in size.
+2. They have a strong fragrance.				| They have a mild fragrance.
+3. They are of dull colours, mostly white.		| They are of mostly bright colours.
+4. Eg: Queen of the night, jasmine.				| Eg: Sunrise glory, sunflower.
+"
+
+@qa "Why do different flowers bloom at different times of the year?"
+"Different flowers bloom at different times of the year as they require certain temperatures and climate.
+Eg: Rose mostly bloom in the winter season."
+
+@qa "What features of flowers help them to be used for decoration purposes?"
+"Flowers are brightly coloured, have fragrance and are delicate to be used for decoration purposes."
+
+@qa "Hema's grandmother boiled marigold flowers in water. She used this water to colour her saree. What use of flowers is shown here?"
+"The flowers being used as natural dyes to colour clothes is shown in the above case."
+
+@qa "How can we dry flowers at home to preserve them?"
+"Flowers can be dried by:
+1. Hanging them in the air.
+2. By keeping them between sheets of newspaper."
+
+@qa "How are fresh flowers carried to different countries?"
+"Fresh flowers are carried to different countries by:
+1. Keeping them in water, chemicals and preservatives.
+2. Keeping them in cool optimum temperature."
+
+@qa "How does grouping flowers help flower sellers or florists?"
+"Florist group flowers according to their shape, size, fragrance and colour. They make bouquets by keeping shape, size and colour 
+combination in mind."
+
+@qa "Why are flowers used to make perfumes?"
+"Flowers have pleasant fragrance so, they are used to make perfumes."
+
+@qa "Why do people gift flowers?"
+"Flowers have pleasant smell and are beautiful and feel good. They make people happy."
+
+@qa "What would happen if we pluck all the flowers of a plant for our use?"
+"Seeds and fruits are formed from flowers, they help to make new plants. If we pluck the flowers new plants would not be formed."
+
+@qa "Describe two different methods of preserving flowers."
+"1. In water: Flowers are preserved for few days by keeping them in water. They stay fresh for few days as the stem absorbs the water.
+2. Drying: Flowers are preserved for longer time by drying them. Flower petals are dried in between sheets of paper or by keeping them in open air."
+
+@qa "Botanists collect and preserve flowers. How does this help us?"
+"Botanists collect flowers and preserve them so that they can study about them later. We also get to see flowers from faraway places, which
+we might not visit."
+
+@match "Match the blooming months for these flowers." {
+	"Marigold" = "October, November"
+	"Mango" = "April, May"
+	"Periwinkle" = "January-November"
+	"Water Lily" = "April-August"
+	"Chrysanthemums" = "October, November"
+	"Bougainvillea" = "November-March"
+	"Hibiscus" = "December-February"
+	"Jasmine" = "October-May"
+}
+
