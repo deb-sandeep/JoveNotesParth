@@ -52,7 +52,7 @@ Coffee				| {8}			   | {9}							|
 Cinnamon			| {10}			   | {11}							|
 ------------------------------------------------------------------------|		
 "
-"Flower, Vegetable, Seed, Oil, Seed, Nut, Leaf, Herb, Seed, Beverage, Bark, Spice"
+"Flower" "Vegetable" "Seed" "Oil" "Seed" "Nut" "Leaf" "Herb" "Seed" "Beverage" "Bark" "Spice"
 
 @rtc {
 	context "Write examples of plants that give us the following things."
@@ -88,7 +88,7 @@ Turmeric is also used to make medicine."
 which brings rains."
 
 @qa "Imagine that you are a  squirrel! Write a paragraph telling how important plants are for your survival."
-"I would need plants for my food as i am a herbivore. I will build my home in the hollows of the trees. Also, I would need plants or bushes
+"I would need plants for my food as I am a herbivore. I will build my home in the hollows of the trees. Also, I would need plants or bushes
 to hide myself from predators."
 
 @qa "Write five sentences to state how animals depend on plants."
@@ -100,5 +100,5 @@ to hide myself from predators."
 
 @qa "Plants also depend on animals. Do you agree? Give reasons."
 "Animals breathe out carbondioxide which is used by plants to make their food. The animals also carry their seeds from one place to another place.
-animals give manure to plants. Some plants also eat insects (insectivorous plants)."
+Animals give manure to plants. Some plants also eat insects (insectivorous plants)."
 
