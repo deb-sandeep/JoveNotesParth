@@ -1,0 +1,36 @@
+subject "English"
+chapterNumber 1.0
+chapterName "The Golden Goose"
+
+@qa "How many characters were there in The Golden Goose ? List them."
+"There were four characters in the story. They were the old woman, her two daughters and the golden goose."
+
+@qa "Why did the woman call the goose close to her?"
+"The woman called the goose close to her so that she could pull out all its feathers."
+
+@qa "Who is the main character in the story'The Golden Goose'? Why do you think that character is the main one?"
+"The main character in the story is the golden goose because if the golden goose does not help the old woman by giving her its 
+golden feather, there would be no story."
+
+@qa "Imagine that the white feathered goose did not fly away after the old woman pulled out all its feathers. How would you end the story?"
+"When the old woman pulled out all her feathers the goose said- Because of your greed you and your daughters will remain poor for a very long time. 
+After saying, the goose went out of the house leaving the old woman and her daughters sad."
+
+@rtc {
+	context "Who said to whom?"
+	
+	@qa "Why do you come here?"
+	"The old woman asked the goose."
+	
+	@qa "The goose has been very helpful."
+	"The old woman told her daughter."
+	
+}
+
+@wm "Creaking"		"A loud, squeaking sound"
+@wm "Dismay"		"Feeling of sadness"
+@wm "Firm"			"Strong, not soft, cannot be moved easily"
+@wm "Folly"			"A foolish act or idea"
+@wm "Ledge"			"A narrow horizontal piece that sticks out from the wall usually outside the window"
+@wm "Wept"			"Cried, past tense of weep"
+

@@ -1,0 +1,54 @@
+subject "EVS"
+chapterNumber 4.0
+chapterName "Food for plants"
+
+@qa "What do plants need to make their food?"
+"To make food plants need sunlight, carbon dioxide and water."
+
+@qa "Why does a plant die if kept inside a closed box with no air?"
+"Plants also need air to breathe and make food. When there is no air inside a box it will die."
+
+@qa "Describe an experiment to show that plants need sunlight."
+"We can keep a plant in the sunlight with one leaf covered with a black paper. After some days, if we test the leaf with iodine, it will not change 
+colour. This shows that plants need sunlight to make food."
+
+@qa "Can plants grow inside the house under the light of a bulb? Why or why not?"
+"Plants can make food with the light of a bulb. The light will be sufficient to make food, although at a slower rate than the natural sunlight."
+
+@qa "What does photosynthesis mean?"
+"Photosynthesis means to put together things using sunlight. The chlorophyll in the leaves take carbon dioxide → air, water → soil through roots 
+and sunlight → sun to form glucose (used as food by the plant) and oxygen given out in the air."
+
+@qa "Why is the process of photosynthesis important for people and animals?"
+"We depend on plants for food. So we depend on photosynthesis, as plants make their food through this process, plants also give out oxygen which 
+is required by us to live."
+
+@qa "Does the process of photosynthesis take place at night too? What happens then?"
+"Photosynthesis does not take place at night as there is no sunlight. At night, the plants breathe like us, they take in oxygen and give 
+out carbon dioxide."
+
+@qa "Why do plants die when taken out of soil?"
+"When plants are uprooted they cannot get water from the soil. They die because they do not get water for photosynthesis."
+
+@qa "What could happen if the leaves of a plant are covered with dust?"
+"If there is lot of dust on the leaves, air cannot enter through the small openings on the leaves (stomata) the plant will not get carbon doxide 
+for photosynthesis and will not be able to make food. It will die in few days."
+
+@qa "A plant is kept in darkness for six days, how will it affect the plant?"
+"If the plant is kept in darkness it will not live long because it will not get sunlight to make its food."
+
+@qa "What can happen if we pluck a lot of leaves of the plants?"
+"If we pluck the leaves the plant will die in few days because the plant will not be able to make food."
+
+@fib "{0} is the process by which plants make their own food."
+"Photosynthesis"
+
+@fib "Leaves look green because of {0} present in them."
+"chlorophyll"
+
+@fib "Plants need {0}, {1} and {2} to make food."
+"water" "carbon-dioxide" "sunlight"
+
+@fib "Plants give us {0} to breathe."
+"oxygen"
+

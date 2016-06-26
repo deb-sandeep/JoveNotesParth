@@ -1,0 +1,21 @@
+subject "English"
+chapterNumber 2.0
+chapterName "The Torch"
+
+@wm "Beamed"		"Smiled happily"
+@wm "Distress"		"Feeling very sad, pain which makes the body or mind weak"
+@wm "Embarrassed"	"Made someone look or feel foolish in front of other people"
+@wm "Expensive"		"Something that costs a lot of money"
+@wm "Generous"		"Willing to give or share more than what is needed"
+@wm "Thrilled"		"Felt excited and happy"
+
+@qa "What object in the story 'The Torch' is the same as the golden feathers in 'The Golden Goose'?"
+"The torch is the same as the golden feathers. It helped to turn the apple, ball and doll into gold."
+
+@qa "Write the main idea of the story 'The Torch'."
+"The main idea of the story 'The Torch' is that greed can make us follish"
+
+@qa "Why was Dr. Ganesha excited about the torch?"
+"Dr. Ganesha was excited about the torch because it turned things into gold. He thought about all the good such an invention would do for humanity.
+He could help many people by giving them things made of gold."
+

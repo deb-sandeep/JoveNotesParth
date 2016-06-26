@@ -13,3 +13,99 @@ mountains."
 @qa "Giraffes are wild animals and the trees which they eat are wild plants. What is similar between wild animals and wild plants?"
 "We do not take care of either wild animals or wild plants."
 
+@qa "Why are wild plants as important as domestic plants?"
+"Wild plants are very useful as animals depend upon them for food and shelter. They produce oxygen which we use. They also give us wood 
+which we use for many things. If wild plants are not there then many animals will not survive."
+
+@qa "How does the physical feature help the plant survive in Desert, which is hot in the day, cold at night, sandy, scarcity of water?"
+"Plants lose water through their leaves. The leaves in cactus are spikes to reduce the loss of water."
+
+@qa "How does the physical feature help the plant survive in High mountains, where it is very cold and windy and the land is very sloppy?"
+"The needle shaped leaves in pine tree do not allow the snow to settle on the leaves and spoil them."
+
+@qa "How does the physical feature help the plant survive in Swampy areas, where the weather is hot and moist and clayey soil filled with water?"
+"The hanging roots in the air help the mangrove tree to breathe."
+
+@rtc {
+	context "Mango trees usually grow in the plains. Why can a mango tree not grow:"
+	
+	@qa "In the mountains."
+	"A mango tree is round in shape and has big broad leaves. Snow will deposit on the leaves and spoil them. Also, mango tree needs hot climate 
+to grow."
+	
+	@qa "On a sea-side."
+	"A mango tree will not be able to withstand the strong winds. The branches will break due to the strong winds and the leaves too will not be able 
+to withstand strong winds. Also mango trees cannot grow in salty water."
+
+}
+
+@qa "Write down two unique features of a lotus plant?"
+"It has round leaves that float in water. It has a long narrow stem with air pockets which goes deep into the water."
+
+@rtc {
+	context "Compare the features of a lotus plant and a rose plant."
+	
+	@qa "Similarity"
+	"Lotus: Has beautiful big flowers and is colourful with many petals.
+Rose: Has beautiful colourful big flowers with many petals."
+
+@qa "Difference"
+"Lotus: Grows in water, does not have thorns, has round leaves and a weak stem.
+Rose: Grows on land, has thorns. The leaves are not round and has a strong woody stem."
+
+}
+
+@qa "What are the features that help a lotus plant to survive better in water?"
+"A lotus plant has small roots that does not absorb much water. It has long thin non-woody stem with air pockets. This helps reduce the weight of the 
+plant and small roots are able to fix it to the ground. Its leaves are rounds which help it get more surface area to float."
+
+@qa "How many types of water plants are there? What are their features? Give examples."
+"Water plants are of 3 types:
+1. Floating: They float on water. They are light and spongy. Eg: Water Hyacinth, Duckweed.
+2. Fixed: Their roots are fixed to the bottom of the pond. They have long and spongy stems. Their leaves float on water and have waxy coating 
+on them. Eg: Water Lily, Cattail, Lotus.
+3. Underwater: They are submerged in water. Have thin narrow leaves and small roots. Eg: Hydrilla, Pond weed."
+
+@qa "Name some common water plants."
+"The water plants are as follows-
+1. Hydrilla
+2. Duckweed
+3. Lotus
+4. Water Lily"
+
+@qa "List some features of water plants which make them different from land plants."
+"a. Usually small in size.
+b. They have weak and long stem.
+c. Have small roots.
+d. They have round leaves with coating.
+e. Their stem and leaves have air pockets to help them float."
+
+@qa "What are some unique features of plants growing in the following regions: High mountains, Swampy areas, Deserts."
+"A. High mountains: In the mountains, it is cold and there could be snow falls. So the trees are conical in shape, have needle shaped leaves and
+do not have flowers. Such trees are called conifers. Eg: pine and spruce.
+
+B. Swampy areas: In swampy areas, the soil holds too much water and the roots cannot breathe. Mangrove trees that grow in these regions have roots
+hanging from their branches so that they can breathe.
+
+C. Deserts: The plants growing in desert have small, thin, waxy leaves, or they have thorns instead of leaves. They have deep roots to absorb water. 
+Cacti, acacia and many succulents grow here."
+
+@qa "If Tina plants a neem treee in her house, will it be called a wild or domestic plant? Why?"
+"It will be called a domestic plant:
+a. It has been planted by Tina.
+b. It is taken care by her."
+
+@qa "How are domestic plants and animals similar?"
+"Domestic plants and animals are similar because:
+a. We take care of both.
+b. We keep them in or near our homes."
+
+@match "Match the following." {
+	"Mountain" = "Pine"
+	"Desert" = "Acacia"
+	"Swampy areas" = "Mangrove"
+	"Sea coasts" = "Coconut"
+}
+
+
+
