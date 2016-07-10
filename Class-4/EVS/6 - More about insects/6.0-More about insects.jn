@@ -1,0 +1,71 @@
+subject "EVS"
+chapterNumber 6.0
+chapterName "More about insects"
+
+@qa "A caterpillar is considered to be an insect. Why?"
+"Caterpillar is an insect because like other insects it also has three pair of legs emerging 
+from its thorax. Also it turns into a butterfly which is an insect."
+
+@qa "Name the parts of an insect's body. Draw a labelled diagram."
+"Insects have three main body parts - head, thorax and abdomen."
+
+@qa "Where will you find a bedbug and a dragonfly? What do they eat?"
+"Bedbugs are: 1. Found in beds.
+2. They drink human and animal blood.
+
+Dragonflies are: 1. Found in gardens, lakes, rivers and ponds.
+2. They eat mosquitoes, fleas, ants and other insects."
+
+@qa "What are nocturnal insects? Give two examples."
+"Insects active at night are called nocturnal insects. Eg: Cockroach, Fireflies, Moths."
+
+@qa "Explain the larva and the pupa stages of an ant's life cycle."
+"At larva stage an ant has no eyes, no legs and is totally dependent on worker ants to feed them. 
+The larva ant spins a cocoon around itself  and becomes a pupa. In the pupa stage it does not feed
+at all. A fully grown ant emerges from the pupa."
+
+@qa "Describe the role of queen and worker ants."
+"* The queen ant lays the eggs from which all the ants of the colony hatch.
+
+* The worker ants do all the work. They take care of the larva, get food and protect the anthill 
+from the danger."
+
+@qa "How do ants live in a colony?"
+"Ants live in a colony called anthills. The queen ant lay eggs. The worker ant build the anthills,
+search for food, take care of young ones and fight against enemies. Male ant will live only for a 
+short time and have wings."
+
+@qa "Describe an anthill."
+"The anthill is divided into a number of rooms. Some areas are used for storing food while others are 
+used for taking care of the larvas. The queen has a separate chamber for herself."
+
+@qa "How is your home and family like an anthill?"
+"Anthills have different rooms for storing food, raising larvae and for the queen ant. Similarly our 
+homes have kitchen for storing and preparing food, rooms for us and our parents."
+
+@qa "Why is too much use of insecticides and pesticides discouraged?"
+"Too much use of insecticides and pesticides pollutes and harms our environment and kills the useful 
+insects which help us."
+
+@fib "Complete the table:
+Insects		|Where do they live |What do they eat |How long do they live |How do they harm or help us |
+------------|-------------------|-----------------|----------------------|----------------------------|
+Dragonfly   |{0}				|{1}			  |{2}					 |{3}						  |
+------------|-------------------|-----------------|----------------------|----------------------------|
+Moth		|{4}				|{5}			  |{6}					 |{7}						  |
+------------|-------------------|-----------------|----------------------|----------------------------|
+Silverfish  |{8}				|{9}			  |{10}					 |{11}						  |
+------------|-------------------|-----------------|----------------------|----------------------------|
+Bedbug      |{12}				|{13}			  |{14}					 |{15}						  |
+------------|-------------------|-----------------|----------------------|----------------------------|
+Flea		|{16}				|{17}			  |{18}					 |{19}						  |
+------------|-------------------|-----------------|----------------------|----------------------------|
+"
+"Near water bodies" "flies, ants, mosquitoes and other small insects" "they live for different periods of time"
+"they help by eating ants, mosquitoes and flies" "Garden, open grasslands, forest" "drink nectar from the flowers 
+and young ones feed on leaves" "different periods of time" "damage crops, spoil the clothes" "Live in old books" 
+"they eat starch and paste to bind books" "live for 2-8 years" "harm our books and clothes" "Found in beds" "drink 
+human and animal blood" "they live for around 10 months after hatching" "they affect the health of humans and animals" 
+"Found on animals like cats, dogs and birds" "drinks animal blood" "live for 1-3 months" "they affect the health of 
+animals"
+
