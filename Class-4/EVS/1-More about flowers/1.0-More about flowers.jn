@@ -2,6 +2,9 @@ subject "EVS"
 chapterNumber 1.0
 chapterName "More about flowers"
 
+@qa "Draw a diagram for grouping of flowers"
+"{{@img grouping-flowers.png}}"
+
 @qa "Give 2 examples of flowers that grow in clusters."
 "Sweet William and Hydrangea flowers."
 
