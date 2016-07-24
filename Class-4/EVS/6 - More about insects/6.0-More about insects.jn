@@ -48,20 +48,68 @@ homes have kitchen for storing and preparing food, rooms for us and our parents.
 insects which help us."
 
 @fib "Complete the table:
-Insects|Where do they live |What do they eat |How long do they live |How do they harm or help us
-Dragonfly|{0}|{1}|{2}|{3}
-Moth|{4}|{5}|{6}|{7}
-Silverfish|{8}|{9}|{10}|{11}
-Bedbug|{12}|{13}|{14}|{15}
-Flea|{16}|{17}|{18}|{19}
-"
-"Near water bodies" "flies, ants, mosquitoes and other small insects" "they live for different periods of time"
-"they help by eating ants, mosquitoes and flies" "Garden, open grasslands, forest" "drink nectar from the flowers 
-and young ones feed on leaves" "different periods of time" "damage crops, spoil the clothes" "Live in old books" 
-"they eat starch and paste to bind books" "live for 2-8 years" "harm our books and clothes" "Found in beds" "drink 
-human and animal blood" "they live for around 10 months after hatching" "they affect the health of humans and animals" 
-"Found on animals like cats, dogs and birds" "drinks animal blood" "live for 1-3 months" "they affect the health of 
-animals"
+
+{{@table
+@th Insects
+@th Where do they live
+@th What do they eat
+@th How long do they live
+@th How do they harm or help us
+
+@td Dragonfly
+@td {0}
+@td {1}
+@td {2}
+@td {3}
+
+@td Moth
+@td {4}
+@td {5}
+@td {6}
+@td {7}
+
+@td Silverfish
+@td {8}
+@td {9}
+@td {10}
+@td {11}
+
+@td Bedbug
+@td {12}
+@td {13}
+@td {14}
+@td {15}
+
+@td Flea
+@td {16}
+@td {17}
+@td {18}
+@td {19}
+}}"
+"Near water bodies"
+"flies, ants, mosquitoes and other small insects"
+"they live for different periods of time"
+"they help by eating ants, mosquitoes and flies"
+
+"Garden, open grasslands, forest"
+"drink nectar from the flowers and young ones feed on leaves"
+"different periods of time"
+"damage crops, spoil the clothes"
+
+"Live in old books" 
+"they eat starch and paste to bind books"
+"live for 2-8 years"
+"harm our books and clothes"
+
+"Found in beds"
+"drink human and animal blood"
+"they live for around 10 months after hatching"
+"they affect the health of humans and animals" 
+
+"Found on animals like cats, dogs and birds"
+"drinks animal blood"
+"live for 1-3 months"
+"they affect the health of animals"
 
 
 
