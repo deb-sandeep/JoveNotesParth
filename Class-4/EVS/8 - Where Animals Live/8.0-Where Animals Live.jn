@@ -1,0 +1,33 @@
+subject "EVS"
+chapterNumber 8.0
+chapterName "Where Animals Live"
+
+@qa "Name three animals that live in a forest and three animals that live in a river."
+"The three animals that live in a forest are- tiger, lion and deer.
+The three animals that live in a river are- dolphin, mahseer and trout."
+
+@qa "How do camel's big feet help it to live in the desert?"
+"Sand in the deserts are very hot. Camels have large feet so that they do not sink in the sand.
+Long legs of the camels keep their body away from the hot land."
+
+@qa "How does the thick fur of a snow leopard help it to live in the mountains?"
+"The fur keeps the snow leopard warm in cold weather of the mountains."
+
+@qa "How do fish breathe and move in water?"
+"Fish use gills to breathe and fins to swim in water."
+
+@qa "What kind of shape do fish have?"
+"Fish have fins and a streamlined shape that helps them to move in water easily by reducing 
+friction that water exerts on them."
+
+@qa "How do birds use wings to find food?"
+"Birds fly from one place to another with wings in search of food."
+
+@qa "How do amphibians live a double life?"
+"The word amphibians means double life. Amphibians are considered to lead a double life as 
+they grow up in water but live on land as adults."
+
+@qa "Frogs, cats, mice, horses and deer live on land. How they are different based on their legs?"
+"All other animals apart from frogs have all legs of equal length. Whereas hind legs of frogs are 
+much longer than their fore legs."
+

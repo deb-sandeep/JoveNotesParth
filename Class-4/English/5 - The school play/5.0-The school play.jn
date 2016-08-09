@@ -1,0 +1,33 @@
+subject "English"
+chapterNumber 5.0
+chapterName "The school play"
+
+@qa "Who does Krithika meet on the first day of school?"
+"Krithika meets Mina, Veena and Sukant on the first day of school?"
+
+@qa "What does Krithika find very hard to do?"
+"Krithika finds it very hard to make new friends in the school."
+
+@qa "Why were Krithika's parents worried?"
+"Krithika's parents were worried because she had not made any friends in school. 
+They thought that she should try harder to make new friends."
+
+@rtc {
+	context "Who said to whom?"
+	
+	@qa "Are you nervous about going to a new school?"
+	"Krithika's mother asked her."
+	
+	@qa "Mina did you do your holiday homework?"
+	"Sukant asked Mina."
+	
+	@qa "Actually I don't like acting. I have a very bad stage fright."
+	"Veena told Krithika."
+	}
+	
+@wm "Interrupted"	"stopped someone from doing something"
+@wm "Audition"		"a short performance to show the talents of someone"
+@wm "Auditorium"	"a large room or a building with a stage for performances"
+@wm "Backstage"		"part of the stage not visible to the audience"
+@wm "Twirls"		"turns very fast"
+
