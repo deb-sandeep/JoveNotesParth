@@ -1,0 +1,37 @@
+subject "EVS"
+chapterNumber 9.0
+chapterName "Our Teeth"
+
+@qa "Differentiate between Permanent and Temporary teeth."
+"Permanent Teeth			 |Temporary Teeth -------------------------------------|-----------------------------------
+a. Appear after the age of 6.	 |Start appearing at around 6 months 
+	(after milk teeth fall)	 |of age.
+b. Bigger in size			 |Smaller in size.
+c. Remain with us for our entire life|Falls off at the age of 6-7 years.
+d. 32 in number.			 |Lesser in number.
+"
+
+@qa "What should we do to take care of our teeth?"
+"To take care of our teeth we should:
+1. Brush atleast twice a day especially after dinner.
+2. Brush for atleast two minutes.
+3. Clean the tongue along with teeth.
+4. Use floss to clean in between the teeth.
+5. Avoid having sweets and soft drinks.
+6. Brush teeth in all direction.
+7. Change toothbrush every three months or when it is worn out.
+8. Visit the dentist regularly."
+
+@qa "Describe the types of teeth , their numaber and their function."
+"Types of teeth         |No. of teeth	|Function of teeth
+------------------------|------------------|------------------------------
+Incisors (biting teeth) |8			|To bite and cut food. 
+Canines (tearing teeth) |4		       |To hold and tear the food.
+Premolars		  |8			|To chew and grind the food. Molars			  |12			|To chew and grind the food.
+"
+
+@qa "Draw and label a diagram showing parts of a tooth."
+"{{@img Parts of a tooth.png}}"
+
+
+
