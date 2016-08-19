@@ -7,7 +7,7 @@ chapterName "Lifecycle of animals"
 
 @qa "Write about the stages of life cycle of a frog."
 "The stages are eggs, tadpole, froglet and an adult frog.
-{{@img lifecycle-frog.png}}"
+{{@img wb/lifecycle-frog.png}}"
 
 @qa "Why is the transformation of a tadpole into a frog called metamorphosis?"
 "A complete change in the physical form is called metamorphosis. A tadpole completely changes 
@@ -19,7 +19,7 @@ b. Eggs hatch and worm like caterpillars/larva come out. They eat leaves.
 c. When a larvae is fully grown it forms a cocoon.
 d. This stage is called pupa.
 e. After sometime a butterfly come out of the cocoon.
-{{@img lifecycle-butterfly.png}}"
+{{@img wb/lifecycle-butterfly.png}}"
 
 @qa "Do rabbits care for their young ones? Why do you think so?"
 "Rabbits do not care for their young ones. The mother just feeds its babies milk 2 times. 
@@ -30,5 +30,5 @@ Rabbit babies can look after themselves in a few days."
 the mother is away."
 
 @qa "Draw a mind map of lifecycle of animals."
-"{{@img mind-map.png}}"
+"{{@img wb/mind-map.png}}"
 
