@@ -10,8 +10,10 @@ chapterName "Lifecycle of animals"
 {{@img wb/lifecycle-frog.png}}"
 
 @qa "Why is the transformation of a tadpole into a frog called metamorphosis?"
-"A complete change in the physical form is called metamorphosis. A tadpole completely changes 
-the way it looks when it becomes a frog. A frog lives on land whereas tadpole lives in water."
+"A complete change in the physical form is called metamorphosis. A tadpole completely changes the way it looks when it becomes a frog. A frog lives on land whereas tadpole lives in water."
+
+@qa "How do poisonous substances in water affect the life cycle of frogs?"
+"Poisonous substances in water can make tadpoles slow in their movement. This makes them an easy prey for the fish. Sometimes many tadpoles die because of water pollution."
 
 @qa "Describe the stages in the life cycle of a butterfly. Draw a diagram of it."
 "a. The life cycle of a butterfly begins as an egg.
@@ -21,14 +23,51 @@ d. This stage is called pupa.
 e. After sometime a butterfly come out of the cocoon.
 {{@img wb/lifecycle-butterfly.png}}"
 
+@qa "Do butterflies undergo metamorphosis during their life cycle? How?"
+"Butterflies undergo metamorphosis during their life cycle. The caterpillar is completely different from an adult butterfly."
+
+@qa "Compare the life cycle of a butterfly and a frog. What are the similarities and differences?"
+"Similarities between the life cycle of a butterfly and a frog are:
+
+a. Both lay eggs.
+b. Both do not take care of their young ones.
+c. Both undergo metamorphosis.
+
+Differences between the life cycle of a butterfly and a frog are:
+
+a. Frog lays eggs in water but butterfly lay eggs on leaves.
+b. Caterpillar changes inside a cocoon but tadpoles don't form cocoon.
+c. Tadpole develops into a froglet but caterpillar develops into pupa."
+
 @qa "Do rabbits care for their young ones? Why do you think so?"
 "Rabbits do not care for their young ones. The mother just feeds its babies milk 2 times. 
 Rabbit babies can look after themselves in a few days."
 
 @qa "How do elephants take care of their calves?"
-"Mother elephant feeds her calf milk and teaches how to find food. Herds take care of a calf when 
-the mother is away."
+"Mother elephant feeds her calf milk and teaches how to find food. Herds take care of a calf when the mother is away."
 
 @qa "Draw a mind map of lifecycle of animals."
 "{{@img wb/mind-map.png}}" 
+
+@qa "Which physical feature does a baby bird inherit from its parents?"
+"A baby bird looks similar to its parents inheriting the body structure from its parents. 
+They have similar body colour, beak, legs and feathers."
+
+@qa "What does a baby bird need to learn from its parents?"
+"A baby bird learns how to fly and catch insects from its parents."
+
+@qa "How does the pollution from cars and factories affect the lifecycle of birds?"
+"Pollution from cars and factories can reduce ability to produce eggs from which healthy nestlings are hatched."
+
+@qa "What is a baby kangaroo called? How do kangaroos take care of their young ones?"
+"The baby kangaroo is called joey. Mother kangaroo carry them in a pouch outside their stomach, they feed and take care of their young ones."
+
+@qa "Why do animals like cows and buffaloes sometimes attack us when we go near their young ones?"
+"Cows and buffaloes are very protective and when we go near them, they feel we want to harm their young ones so they attack us."
+
+@qa "Which animal babies need a lot of care? Why do they need so much care?"
+"Cats, birds, elephants, kangaroo take a lot of care of their young ones as they are not able to take care of themselves, when they are young."
+
+@qa "Which animal babies need less care? How do they take care of themselves?"
+"Animals like butterflies, frog and lizards do not take care of their young ones, as their babies are independent and they learn to take care of themselves."
 

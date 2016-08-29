@@ -1,0 +1,32 @@
+subject "English"
+chapterNumber 6.0
+chapterName "The tale of Peter Rabbit"
+
+@qa "Where did Peter rabbit and his family live?"
+"Peter rabbit and his family lived underneath the root of a very big tree."
+
+@qa "What did Peter rabbit's mother tell him to do?"
+"Peter rabbit's mother told him not to go into Mr. McGregor's garden and instead go to 
+the fields or down the lane."
+
+@qa "Why did Peter rabbit decide to never go to Mr. McGregor's garden again?"
+"Peter rabbit decided to never go to Mr. McGregor's garden again because he was almost 
+caught by Mr. McGregor for stealing his vegetables."
+
+@qa "Why did Peter rabbit run into the tool shed?"
+"Peter rabbit ran into the tool shed because Mr. McGregor was chasing him across the garden 
+as Peter rabbit had forgotten the way back to the gate, and Mr. McGregor wanted to catch him 
+as he saw Peter taking his cucumbers without his permission and he was very angry."
+	
+@qa "Who said to whom: Stop, thief!"
+"Mr. McGregor told Peter rabbit."
+
+@wm "Dreadfully" "Extremely, terribly"
+@wm "Overheard" "Accidentally heard something that was said to another person"
+@wm "Scarecrow" "An object in the shape of a human, placed in a field to frighten away the birds"
+@wm "Shed" "Let something fall"
+@wm "Underneath" "Below something"
+@wm "Wheelbarrow" "A cart with two handles and one wheel, used to carry small loads"
+
+
+
