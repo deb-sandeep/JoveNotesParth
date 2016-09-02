@@ -12,10 +12,13 @@ chapterName "Digestion"
 "Food is chewed by teeth into small pieces."
 
 @qa "How does saliva help in digestion? Why it is important to chew food well?"
-"Saliva helps in breaking down starch in the food into simple sugar which is easily absorbed by the body and saliva gets a chance to act on the food."
+"Saliva helps in breaking down starch in the food into simple sugar which is easily absorbed by the body. It also makes the food moist and soft. This makes the food easy to swallow. It also binds the food together into a ball."
+
+@qa "What can happen if we do not chew our food properly?"
+"If we do not chew our food properly the saliva can't break the starch into simple sugar. Simple sugar is easily absorbed by the body."
 
 @qa "What is the role of small intestine in digestion?"
-"The small intestine is responsible for further breaking down food once it is digested in stomach. It also helps in absorbing all the useful substances from it."
+"The small intestine receives food in the stomach. It is around 7 mtrs long. It is responsible for further breaking down food once it is digested in stomach. It also helps in absorbing all the useful substances from it."
 
 @qa "What happens to leftover food at the end of the large intestine?"
 "Large intestine absorb water from food and make it into a solid mass. Waste from food is excreted through anus at the end of the large intestine."
@@ -25,6 +28,22 @@ chapterName "Digestion"
 
 @qa "What keeps the digestive organs in their place? Why don't they fall down?"
 "The digestive organs are tightly packed together and also connected with skin like material to the body."
+
+@rtc {
+	context "Describe what happens to the food :"
+	
+	@qa "Mouth"
+	"Digestion begins here. Teeth chew food and mix with saliva."
+	
+	@qa "Stomach"
+	"Muscles mix the food here. Acids break food into smaller parts."
+	
+	@qa "Small intestine"
+	"Body soaks up important nutrients it needs."
+	
+	@qa "Large intestine"
+	"Soaks up extra water and undigested food and send it to anus."
+}
 
 
 
