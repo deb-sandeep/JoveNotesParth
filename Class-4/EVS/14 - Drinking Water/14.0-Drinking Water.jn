@@ -1,0 +1,56 @@
+subject "EVS"
+chapterNumber 14.0
+chapterName "Drinking Water"
+
+@qa "Nearly three-fourths of the Earth is covered with water. So there is no problem in getting drinking water. Is this statement true or false? 
+Give reasons for your answer."
+"False, if all the water on the Earth could be divided into a 100 parts, only 3 parts out of that would be used for drinking."
+
+@qa "Why is drinking sea water a problem?"
+"We cannot drink sea water. The salt in sea water can make us sick in a very short time."
+
+@qa "Drinking water is easily available in India. The government has provided running water connection to all houses. 
+Is this statement true or false? Give reasons for your answer."
+"False, large number of people depend on wells, rivers and lakes for drinking water."
+
+@qa "People in the villages have to struggle to get drinking water, but people in cities get drinking water easily. Is this statement true or false? 
+Give reasons for your answer."
+"False, a large number of people in cities also struggle to get clean drinking water because of over population."
+
+@qa "Suggest two ways to reduce consumption of water in your home."
+"To reduce consumption of water we can- 
+1. Use a bucket and a mug instead of a shower to take a bath.
+2. Close the tap while brushing teeth."
+
+@qa "Suggest one way in which water can be reused at your home."
+"We can reuse water at our home by asking our parents to use the water used in the kitchen to water the plants."
+
+@qa "Suggest one way in which sources of drinking water like wells can be kept clean."
+"Water in the well can be kept clean by covering them by net/lid to prevent dirt from getting inside them."
+
+@qa "We can get drinking water from the sea water by boiling and condensing it. Why is this method not used by the municipality in Chennai to get 
+drinking water for the city residents?"
+"One can get drinking water by condensation process but it is very expensive as it requires energy to heat a large quantity of water. 
+This method is popular in Arab countries which have a lot of oil."
+
+@qa "List two reasons why all the people cannot get drinking water."
+"Only a small part of total water on the Earth can be used and clean drinking water is especially limited. Some countries have a lot of drinking 
+water because of the unequal distribution of natural water sources."
+
+@qa "How can sea water be made suitable for drinking?"
+"Sea water can be boiled and water vapour can be collected and condensed to get drinking water."
+
+@qa "Summarise in three sentences about ways we can reduce water scarcity."
+"Reuse the bath water to water the garden. Use a small tank or flush the toilets with water used for washing clothes. Persuade others to save water."
+
+@qa "Explain what you believe should be done to reduce water scarcity based on what you learnt."
+"Be careful not to waste water or use too much water. The water can be reused and recycled and the usage of water can be reduced."
+
+@qa "Summarise ways to keep drinking water clean."
+"Always keep drinking water vessels covered . Use a clean utensil to take out the water. Vessels used for storing water should be cleaned regularly. 
+Do not dirty near well, and do not throw garbage in the wells, rivers and lakes."
+
+@wm "Freshwater"		"Water that is not salty; water from the rivers and lakes"
+@wm "Irrigating"		"To put water in the fields for the crops"
+@wm "Scarcity"			"Shortage"
+

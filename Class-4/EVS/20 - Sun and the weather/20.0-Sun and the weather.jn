@@ -1,0 +1,47 @@
+subject "EVS"
+chapterNumber 20.0
+chapterName "Sun and the weather"
+
+@qa "What will you prefer to do on a hot summer evening- go for a swim or play football?"
+"I will prefer to go for a swim on a hot summer evening."
+
+@qa "Write two food items that are eaten in the summers and two food items eaten in winters? Why?"
+"In summers we would like to eat water-melons and ice-creams because it keeps our body cool. In winters we would like to eat samosas and pakodas 
+because it keeps our body warm."
+
+@qa "Explain how the tilt of the Earth is responsible for summer and winter seasons."
+"a. Seasons occur due to the tilt in the axis of the Earth.
+b. As the Earth revolves around the sun, the tilt stays the same but different parts of the Earth gets closer or far away from the sun.
+c. This happens at different times of the year resulting in different seasons.
+d. We experience summer season when the part of the Earth we live in gets more sunlight.
+e. We experience winter season when the part of the Earth we live in gets less sunlight.
+"
+
+@qa "If the top half of the Earth has summer season what will be the season in the bottom half? Why?"
+"If the top half of the Earth has summer season, the bottom half of the Earth will have winter. The 2 halves have opposite seasons as half part of the Earth 
+is tilted towards the sun and the other half part is tilted away from the sun."
+
+@qa "How does sun help in the formation of rain clouds?"
+"a. Water from the sea evaporates because of the heat of the sun.
+b. The water changes into water vapour.
+c. It rises in the air then cools down as it goes higher and condenses the droplets of water.
+"
+
+@qa "Why don't all rain clouds bring rain?"
+"Rain falls only when the force of gravity on the cloud becomes more than the forces of the rising air."
+
+@qa "Write two ways in which weather can change in a season?"
+"Some days may be cloudy when usually it is sunny. Some days may be windy or have thunder storm."
+
+@qa "What would happen if there was no tilt in the Earth's axis?"
+"The entire Earth would have the same season and same climate."
+
+@wm "Axis"			"A real or imaginary line through the center of an object, around which the object turns"
+@wm "Condense"		"To change from gas to liquid"
+@wm "Droplets"		"Small drops of water"
+@wm "Evaporate"		"To turn into gas"
+@wm "Revolution"	"Earth going around the sun in 1year's time"
+@wm "Tilt"			"To lean to one side"
+
+
+

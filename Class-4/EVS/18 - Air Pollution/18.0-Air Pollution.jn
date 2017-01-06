@@ -1,0 +1,18 @@
+subject "EVS"
+chapterNumber 18.0
+chapterName "Air Pollution"
+
+@qa "How does air gets polluted, what are its effects and what are the ways to reduce it?"
+"{{@table
+@th S.No.
+@th Causes of air pollution
+@th Effects of air pollution
+@th Ways to reduce it
+
+@td 1.
+@td Smoke from: a.
+
+}}"
+
+@wm "Poison"		"A substance that can cause death or seriously harm a living being"
+

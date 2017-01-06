@@ -1,0 +1,42 @@
+subject "EVS"
+chapterNumber 15.0
+chapterName "Water Purification"
+
+@qa "How can water from a open well be filtered before being stored in a earthen pitcher?"
+"The water can be filtered by using a cloth folded many times. The water can be poured from one container to another through the cloth. 
+In a number of villages water is filtered in this manner."
+
+@qa "What do you understand by decantation?"
+"Decantation is done after muddy water has been left undisturbed for a few hours. The pouring of clean water at top into 
+another vessel is called decantation."
+
+@qa "Why should we carry chlorine tablets if we go for camping?"
+"Chlorine tablets are used to purify water while camping. We will need to carry chlorine tablets. We will need to take water from any lake, 
+stream or river we find."
+
+@qa "Why can't we drink water straight from a river or a lake?"
+"Water from rivers, lakes and open wells can contain many impurities. Impurities are the substances present in water which makes it unsafe for drinking."
+
+@qa "What happens when muddy water is left undisturbed for a few hours?"
+"If a glass of water is left undisturbed for a long time, the heavier dirt and mud in muddy water will sink to the bottom. The water at the top will be cleaner. 
+This is called sedimentation."
+
+@qa "Explain why water that looks clean may not be safe to drink?"
+"Water that comes from the ground (wells, tube wells and handpumps) does not have any impurities that can be seen. However, it may have germs that cause 
+diseases."
+
+@qa "How does boiling help in purifying water? How long do you need to boil water to make it safe to drink?"
+"Boiling can kill germs. Boiling is done by heating the water till bubbles start to form. The water has to boil for atleast a minute to kill germs in it."
+
+@qa "How does chlorination help in purifying water? How is it done?"
+"A substance called chlorine can also clean, kill germs when added to water.
+a. Water is first collected from lakes and rivers.
+b. It is then purified by sedimentation, filteration and finally by chlorination.
+c. In villages and small towns, people sometimes put chlorine to make it pure."
+
+@wm "Insoluble"		"Something that does not dissolve"
+@wm "Porous"		"Having small holes"
+
+@qa "Write the steps explaining the cleaning of water."
+"We put a filter paper in a funnel and poured dirty water through it into the tumbler. The water that comes out was clean and had less dirt in it."
+

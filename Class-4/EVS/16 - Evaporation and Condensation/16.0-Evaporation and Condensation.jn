@@ -1,0 +1,35 @@
+subject "EVS"
+chapterNumber 16.0
+chapterName "Evaporation and Condensation"
+
+@qa "Explain the process of Evaporation and Condensation."
+"When water changes into water vapours because of heat, it is called evaporation. When water vapours change back into water droplets on cooling, 
+it is called condensation."
+
+@qa "Give examples of evaporation and condensation from daily life."
+"Evaporation is the reason why clothes dry when hung out in the sun. Evaporation is one of the reasons why puddles of rain water disappear after sometime. 
+Evaporation is the reason why our wet hair becomes dry. Small droplets of water outside a cold juice glass, dew drops on grass and a frosted glass window 
+are all examples of water vapours condensing to form water."
+
+@qa "When will clothes dry faster- on a bright sunny day or a bright and windy day? Why?"
+"Wind can increase the rate of evaporation. This is the reason why clothes dry faster on a bright windy day."
+
+@qa "Lakes often become dry in the deserts during the summer. Why?"
+"Water in the lakes evaporates due to the heat of the sun, so they become dry. Deserts are also very windy which speed up evaporation."
+
+@qa "Explain how rain water reaches the sea?"
+"When it rains the water seeps into the soil, from where it is carried to the rivers. On mountain streams are formed which also take the rain waters 
+to the rivers. The river takes the water to the sea."
+
+@qa "How is rain measured using a rain gauge?"
+"a. The rain gauge consists of a container with a funnel at the top to collect rain water.
+b. It has a scale which is used to measure the rainfall.
+c. The rain water is collected in the container.
+d. The level of water collected tells the amount of rain."
+
+@qa "Will evaporation be faster or slower on a cloudy day? Why?"
+"Evaporation will be slower on a cloudy day as they are less hot than sunny days. The more hot a day is more is the evaporation of water."
+
+@wm "Measurement"		"The exact amount of something"
+@wm "Water Vapour"		"Water in the form of gas; specially in the air"
+

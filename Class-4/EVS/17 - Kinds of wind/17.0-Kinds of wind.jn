@@ -1,0 +1,73 @@
+subject "EVS"
+chapterNumber 17.0
+chapterName "Kinds of wind"
+
+@qa "What is wind?"
+"Moving air is called wind."
+
+@qa "What is the difference between a storm and a cyclone?"
+"When the wind blows at a much higher speed than a gale, it is called a storm. A storm can uproot trees. Cyclone is a huge revolving storm that starts 
+over oceans and loses its strength as it move towards the land. The wind in a cyclone moves in a spinning manner with great speed."
+
+@fib "A wind blowing from the sea to land during the day is called {0}."
+"sea breeze"
+
+@fib "A strong wind with a high speed is called a {0}."
+"gale"
+
+@fib "Hot air {0} up."
+"rises"
+
+@fib "{0} winds bring rain."
+"Monsoon"
+
+@qa "How can you show that hot air rises up."
+"Fix the mouth of a plastic bottle with a balloon. Now place the plastic bottle in hot water. The balloon starts to inflate. This is because the air 
+inside the bottle becomes hot and rises to inflate the balloon. This shows that hot air rises."
+
+@qa "Why are winds formed?"
+"Winds are formed due to unequal heating of land. If one part of the land becomes hotter than the others, the air above it also becomes hot and rises up. 
+The cool air from the surroundings move in to take its place, forming winds."
+
+@qa "Explain how sea breeze and land breeze are formed?"
+"a. The sun heats up both the land and sea, however, the land gets heated up faster than water.
+b. The air above the land becomes hotter faster and rises.
+c. The cold air above the sea rushes to take its place. This is called sea breeze.
+d. At night, the land cools faster than the sea.
+e. The air above the sea is hotter than the air above the land.
+f. As the hot air above the sea rises up, the cold air from the land blows towards the sea, to take its place. This is called land breeze."
+
+@qa "What are monsoon winds? How are they formed?"
+"a. Monsoon winds are formed due to unequal heating of land and sea.
+b. In summer land gets hot faster than the sea.
+c. The air above the land rises up and cool air from the sea rushes to take its place.
+d. This happens through the summer months.
+e. The winds from the sea carry a lot of moisture which results in rain."
+
+@qa "Do monsoon winds bring rain only to the coastal areas? Why or why not?"
+"Monsoon winds bring rain to all parts of the country. It moves from coastal areas to the Himalayas and cause rainfall as it moves."
+
+@wm "Breeze"		"A light or gentle wind"
+@wm "Cyclone"		"A storm with very strong spinning winds"
+@wm "Gale"			"Wind with moderate speed"
+@wm "Inflate"		"To make larger or bigger"
+@wm "Storm"			"Strong wind along with rain and thunder storm"                                                                                                                       
+
+@qa "Why does the smoke from the chimney rise up?"
+"Hot air is lighter and it rises up. Smoke is also hot thus it rises up from the chimney."
+
+@qa "Why do we like sea breeze but are afraid of a cyclone?"
+"Sea breeze is gentle wind blowing at low speed which makes the weather on the sea-side pleasant. Cyclones cause destruction as wind blows at a very high speed. 
+It also causes heavy rainfall."
+
+@qa "Why do monsoon winds bring rain?"
+"These winds have a lot of water vapour in them as they blow over seas and oceans. This water vapour forms clouds and brings rains."
+
+@qa "How does the pattern of the monsoon winds change in winters? Why?"
+"In winters the land cools faster than the sea. The air over the sea is still warm, it rises up and cool air blow from the land to the sea."
+
+@qa "How are monsoon winds similar and different from a sea breeze?"
+"Both monsoon winds and sea breeze blows from sea to land. Sea breeze blows during the day and does not bring rain. Whereas monsoon winds blow for longer period 
+and it brings rain."
+
+

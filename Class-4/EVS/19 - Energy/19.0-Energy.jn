@@ -1,0 +1,72 @@
+subject "EVS"
+chapterNumber 19.0
+chapterName "Energy"
+
+@qa "Give two examples of chemical energy and heat energy."
+"a. Batteries and food we eat have chemical energy.
+b. An electric heater and flame from stove have heat energy."
+
+@qa "An air conditioner can cool a room. Does an air conditioner use energy? What kind of energy does it use?"
+"Yes, an air conditioner can change the temperature, so it has energy. It was electrical energy."
+
+@qa "What is energy? Explain with example."
+"Energy is the power to change things. It is ability to do work. Examples: Playing football, cooking food, writing on a board."
+
+@qa "A thick wire is twisted several times. Will it have energy? Why?"
+"No, it does not have energy  because it does not have the power to change things."
+
+@qa "What is the source of energy for a sail boat to move? When will a sail boat not move?"
+"A sail boat uses wind energy. It will not be able to move when there is no wind."
+
+@rtc {
+	context "Identify the source of energy."
+	
+	@qa "Cooking food on earthen chulha."
+	"Firewood/coal."
+	
+	@qa "Moving a steam engine."
+	"Coal."
+	
+	@qa "Ironing clothes using an electric iron."
+	"Electrical energy."
+	
+	}
+	
+@qa "What is the difference between renewable and non-renewable sources of energy? Give two examples of each."
+"{{@table
+@th S.No.
+@th Renewable Energy
+@th Non-renewable Energy
+
+@td 1.
+@td Can be replenished
+@td Cannot be replenished
+
+@td 2.
+@td Present in large amount
+@td Present in limited amount
+
+@td 3.
+@td Eg: Firewood and solar energy
+@td Eg: Coal and petroleum
+}}"
+
+@qa "The movement of ocean waves is used to generate electrical energy. Would it be renewable or a non-renewable source of energy? Explain?"
+"Electrical energy from ocean waves is a renewable source of energy because it can be replenished."
+
+@wm "Deplete"		"To finish off quickly"
+@wm "Replenish"		"Refill"
+
+@qa "A weight lifter is lifting a heavy weight. Does the weight lifter have energy? Why?"
+"Yes, the weight lifter has energy. He is able to move the weights."
+
+@qa "A truck is pulling a bus. Does the truck have energy? Why?"
+"Yes, the truck has energy. It is able to move the location of the bus."
+
+@qa "Which energy source is the most used in India? Which is the second most used energy source?"
+"Coal is the most used energy source in India. Petroleum is the second most used energy source."
+
+@qa "Fuels for vehicles are being developed from plabnts and can be used instead of petrol or diesel. Such fuels are called bio-fuels. 
+Do you think bio-fuels are renewable sources of energy? Why?"
+"Bio-fuels are renewable source of energy as we get it from plants. Plants grow back quickly."
+
