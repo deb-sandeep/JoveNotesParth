@@ -1,0 +1,25 @@
+subject "English"
+chapterNumber 11.0
+chapterName "Where have all the tigers gone"
+
+@wm "boar"			"wild pig"
+@wm "endangered"	"in danger, rare"
+@wm "fierce"		"with great force or anger; dangerous or wild"
+@wm "predators"		"animals that hunt other animals for food"
+@wm "prey"			"animal that is hunted, caught and eaten by another animal"
+@wm "lambkins"		"young lambs"
+@wm "lofty"			"high; of great height"
+@wm "prickle"		"a small, sharp, pointed growth such as a plant's thorn"
+
+
+@qa "Why should we save tigers?"
+"We should save tigers because everything in nature is connected. If we do not save tigers we will soon be left with no natural resources."
+
+@qa "How can we save the Earth by saving tigers?"
+"Everything in nature is linked. If we save tigers the number of animals who eat plants will not go up. Thus, jungles will not be eaten up by animals like 
+goat and deer."
+
+@qa "Why are tigers disappearing?"
+"Tigers are disappearing because people kill them for their bones. Also tigers are losing their homes in the jungles, because people are cutting down trees 
+for their home and agriculture."
+

@@ -1,0 +1,27 @@
+subject "English"
+chapterNumber 10.0
+chapterName "Once in a village"
+
+@qa "What happened when the number of people in the village grew?"
+"When the number of people in the village grew, they wanted more houses to live in and more fields to grow food. They started cutting down the trees 
+in the forest for this."
+
+@qa "How did the villagers manage to get rain?"
+"All the villager's minds and plants and everything else in the village begged for rains and prayed for it. All the prayers rose up to the air and formed a shining 
+silver cloud which finally gave them rain."
+
+@qa "What was the village looked like before the trees were cut?"
+"Before the trees were cut the village was beautiful. It had a river in which the women washed their clothes and children swam, waded and fished. There were 
+ponds full of lotuses, ducks, geese and frogs. Many trees surrounded the village which gave food wood, fruits, roots and flowers."
+
+@qa "What happened after the villagers cut down the trees?"
+"After the villagers cut down the trees in the forest, there was no rain in the forest for 5 years. The ponds dried up and the lotuses withered and died. 
+The geese and ducks left the village and the grass around the village became brown and weak."
+
+@wm "blossomed"			"produced flowers"
+@wm "cured"				"made someone healthy; became healthy again"
+@wm "sparse"			"not thick or dense, few and scattered"
+@wm "tender"			"soft"
+@wm "trickle"			"a slow, thin flow of water"
+@wm "withered"			"became dry and weak"
+
