@@ -4,14 +4,36 @@ chapterName "Air Pollution"
 
 @qa "How does air gets polluted, what are its effects and what are the ways to reduce it?"
 "{{@table
-@th S.No.
 @th Causes of air pollution
 @th Effects of air pollution
 @th Ways to reduce it
 
-@td 1.
-@td Smoke from: a.
+@td Smoke from 
+	a. Vehicles
+	b. Chulhas
+	c. Factories
+	d. Thermal power plants
 
+	These contain
+	a. Small particles of dust
+	b. carbon dioxide
+	c. Carbon mono-oxide
+	d. Sulphur dioxide
+	e. Nitrogen dioxide
+
+@td Effects of air pollution
+	1. Breathing problem
+	2. Heart diseases
+	3. Cancer
+	4. Eye irritation
+	5. Acid rain
+
+@td Ways to reduce it
+	1. Use public transport
+	2. Try walking instead of using a vehicle
+	3. Get a pollution under control certificate for your vehicle
+	4. Replace earthen chulhas with gas
+	5. Plant more trees
 }}"
 
 @wm "Poison"		"A substance that can cause death or seriously harm a living being"
