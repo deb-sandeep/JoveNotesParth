@@ -1,0 +1,40 @@
+subject "English"
+chapterNumber 12.0
+chapterName "Venu's Time Machine"
+
+@qa "Who is the main character in the story? What does he do with the time machine?"
+"Venu is the main character in the story. He travels back in time and brings back animals from there with the help of time machine."
+
+@qa "How is Venu's world different from the present world?"
+"Venu's world is full of scientific inventions like talking machines, teleporters and time machines. Also, it does not have jungles and animals like the present world."
+
+@qa "What is the main idea of the story 'Venu's Time Machine'? How does it suggest a problem faced in the present world?"
+"The main idea of the story is that if we do not stop cutting down trees and killing animals, we might have a future where there will be no trees and animals. 
+In the present world, animals like tigers are disappearing rapidly."
+
+@rtc {
+	context "Who said to whom?"
+	
+	@qa "Don't be so suspicious. Try it."
+	"Meal maker said to Venu."
+	
+	@qa "Must ask Ma to do something about this."
+	"Venu thought this to himself."
+	
+	@qa "There you are! Come on in. Did you have your breakfast?"
+	"Venu's mother said to Venu."
+	
+	@qa "I thought you were not going to be back by tomorrow."
+	"Venu said this to his mother."
+	
+	@qa "Yes, it is for a tiger. I was going to bring a tiger back to our world today."
+	"Venu reluctantly told this to his mother."
+}
+
+@wm "Darted"		"moved quickly"
+@wm "Desperation"	"a state of nervousness"
+@wm "Rustle"		"a soft sound such as that made by the dry leaves rubbing together"
+@wm "Reluctantly"	"not eagerly"
+@wm "Suspicious"	"Doubtful; feeling that someone has done something wrong"
+@wm "Teleporter"	"an imaginary machine that can move things without moving from one place to another"
+

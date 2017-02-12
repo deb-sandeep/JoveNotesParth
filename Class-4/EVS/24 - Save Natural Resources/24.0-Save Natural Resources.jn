@@ -1,0 +1,33 @@
+subject "EVS"
+chapterNumber 24.0
+chapterName "Save Natural Resources"
+
+@qa "Explain the term natural resources. Give examples."
+"Things obtained from nature which is useful for us is called natural resource. Eg: air, water, trees, etc."
+
+@true_false "Mercury, the planet closest to the sun, is a valuable natural resource for us." false
+
+@true_false "Air is a natural resource." true
+
+@qa "Plants are a natural resource of food, timber and fodder. Can you think of a plant that is not a natural resource? Explain."
+"Weeds (small unwanted plants that grow along with a crop in fields) cannot be considered as a natural resource as they are of no use to us."
+
+@qa "Give an example of an object that is made by using more than one natural resource. List the natural resources."
+"Bread - (uses) wheat, water and fuel to cook.
+Paper - Made from water and wood."
+
+@qa "Unscramble the word below to find a reason for depletion of natural resources:
+inotoevrocusmpon"
+"Over consumption"
+
+@true_false "Increased air conditioner usage can lead to depletion natural resources." true
+
+@true_false "Reducing waste has no impact on controlling the depletion of natural resources." false
+
+@qa "Write 2-3 ways to conserve natural resources."
+"a. Switching off fans and lights, when leaving a room.
+b. Using metal utensils rather than paper cups and plates."
+
+@qa "Can a natural resource reduce in importance? Give example.(Hint: Plastic pipes are replacing metal pipes in households.)"
+"Yes, it can. The use of wood for making doors and windows is coming down. It is being replaced by plastic, metal doors and windows."
+

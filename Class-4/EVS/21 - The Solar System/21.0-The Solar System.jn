@@ -1,0 +1,52 @@
+subject "EVS"
+chapterNumber 21.0
+chapterName "The Solar System"
+
+@qa "Write the name of planets in the order of their distance from the sun."
+"{{@table
+@th Name of the planet
+@th Distance from the sun
+
+@td a. Mercury
+b. Venus
+c. Earth
+d. Mars
+e. Jupiter
+f. Saturn
+g. Uranus
+h. Neptune
+
+@td 60 million kilometres
+110 million kilometres
+150 million kilometres
+230 million kilometres
+800 million kilometres
+1400 million kilometres
+2900 million kilometres
+4500 million kilometres
+}}"
+
+@qa "Which planet takes the longest to complete a revolution around the sun? Describe the surface of this planet."
+"Neptune takes the longest to complete a revolution around the sun. It has an icy surface."
+
+@qa "How many planets does the solar system have? Which planet is called the red planet and why?"
+"There are eight planets in the solar system. Mars is called the red planet because of its reddish soil."
+
+@qa "Which planet's surface resembles the surface of the moon?"
+"Mercury resembles the moon. It has large craters like the one on the surface of the moon."
+
+@qa "How are meteors formed? How will you know that you have seen a meteor?"
+"a. Meteors are formed when asteroids or other objects fall from the space into Earth.
+b. Meteors start burning when they enter the Earth's atmosphere.
+c. Meteors can be seen only for one or two seconds and are called shooting stars."
+
+@qa "When do you see a comet's tail?In which direction does it point?"
+"When a comet gets closer to the sun it develops a tail and the tail points away from the sun."
+
+@qa "What are artificial satellites used for? Name some indian satellites."
+"Artificial satellites are used for weather forecasting, sending telephone signals and taking pictures of Earth. Eg: INSAT 4-B used for DTH."
+
+@qa "Which of the two is a better model of the solar system? Why do you say that?"
+"The 2nd model can be considered better as it shows the 3 dimensional views. We can look at it from different directions to understand what the solar 
+system looks like. The 2nd model also shows the different colours of the planets."
+
