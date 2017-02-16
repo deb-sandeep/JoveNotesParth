@@ -1,0 +1,26 @@
+subject "English"
+chapterNumber 13.0
+chapterName "The Life of Helen Keller"
+
+@qa "Who were the two teachers that helped Helen to read and write? What were some of the methods they used to teach?"
+"Anne Sullivan and Sarah Fuller are Helen's two teachers. Anne used to spell out the words on Helen's hand and Sarah made Helen touch her lips to feel how 
+they moved to make sounds."
+
+@qa "How did Helen spend most of her life?"
+"Helen travelled to many countries to help deaf and blind people like her.She also met and talked to many soldiers."
+
+@qa "Describe Helen Keller's character based on the facts given in the story."
+"Helen Keller was a very determined person. We know this because she always wanted to study. She not only learnt to read and speak, but finished college too.
+She was very helpful because when she grew up, she travelled the world to help other people like her."
+
+@qa "In you opinion, which two events changed Helen's life the most and why?"
+"The two events that changed Helen's life the most are when she became deaf and blind at a young age, and when she met her teacher Anne Sullivan at the age 
+of six years."
+
+@wm "Courage"			"the quality that helps you to face danger without showing any fear"
+@wm "Determination"		"the quality of making up your mind to achieve something"
+@wm "Illness"			"sickness or disease"
+@wm "Repeat"			"to say or do something again"
+@wm "Tough"				"not easy; difficult"
+@wm "Upset"				"unhappy, sad or angry"
+

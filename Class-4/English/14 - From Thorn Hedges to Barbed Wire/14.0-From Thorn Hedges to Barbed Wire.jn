@@ -1,0 +1,32 @@
+subject "English"
+chapterNumber 14.0
+chapterName "From Thorn Hedges to Barbed Wire"
+
+@wm "Artificial"		"something made by humans and not by nature"
+@wm "Design"			"a drawing or plan that shows what something looks like and how it is going to work"
+@wm "Livestock"			"animals kept by farmers for food or wool"
+@wm "Scarce"			"When there is not much of something"
+@qa "Strategy"			"A plan made in order to achieve a goal"
+@qa "Wander"			"to walk without knowing where you are going"
+
+@qa "Why were people having problems making a fence in this part of USA?"
+"The farmers and Joseph lived in the middle west part of USA. Very few trees grow in this area and stones were also scarce. The Osage orange trees had 
+sharp thorns and scared the livestock. But it took a long time to grow."
+
+@qa "How was Joseph inspired by nature?"
+"Joseph saw that the farm animals were scared of the thorny bushes of the Osage orange trees and stayed away from the crops. But this tree doesn't grow 
+fast. Joseph got inspired by these thorny bushes for his idea of artificial fences."
+
+@qa "How were the farms of thorny bushes and barbed wire similar and different?"
+"Both the barbed wire and thorny bushes had a twisted branch like structure. The thorny bushes were natural. The barbed wire was artificial."
+
+@rtc {
+	context "All the cows and sheep would often escape and wander away."
+	
+	@qa "What was the cause of this problem for the farmers and ranchers?"
+	"The cause of this problem was that there were not enough fences to stop livestock."
+	
+	@qa "What were the effects of this problem?"
+	"The effect of the problem was that the livestock ate all the farmer's crops."
+}
+
