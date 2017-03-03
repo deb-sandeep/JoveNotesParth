@@ -7,23 +7,29 @@ chapterName "The Solar System"
 @th Name of the planet
 @th Distance from the sun
 
-@td a. Mercury
-b. Venus
-c. Earth
-d. Mars
-e. Jupiter
-f. Saturn
-g. Uranus
-h. Neptune
-
+@td Mercury
 @td 60 million kilometres
-110 million kilometres
-150 million kilometres
-230 million kilometres
-800 million kilometres
-1400 million kilometres
-2900 million kilometres
-4500 million kilometres
+
+@td Venus
+@td 110 million kilometres
+
+@td Earth
+@td 150 million kilometres
+
+@td Mars
+@td 230 million kilometres
+
+@td Jupiter
+@td 800 million kilometres
+
+@td Saturn
+@td 1400 million kilometres
+
+@td Uranus
+@td 2900 million kilometres
+
+@td Neptune
+@td 4500 million kilometres
 }}"
 
 @qa "Which planet takes the longest to complete a revolution around the sun? Describe the surface of this planet."
@@ -43,10 +49,82 @@ c. Meteors can be seen only for one or two seconds and are called shooting stars
 @qa "When do you see a comet's tail?In which direction does it point?"
 "When a comet gets closer to the sun it develops a tail and the tail points away from the sun."
 
-@qa "What are artificial satellites used for? Name some indian satellites."
-"Artificial satellites are used for weather forecasting, sending telephone signals and taking pictures of Earth. Eg: INSAT 4-B used for DTH."
+@qa "What are artificial satellites used for? Name some Indian satellites."
+"Artificial satellites are used for weather forecasting, sending telephone signals and taking pictures of Earth. Eg: INSAT 4-B used for DTH, INSAT 1-A used for 
+weather forecasting."
 
 @qa "Which of the two is a better model of the solar system? Why do you say that?"
 "The 2nd model can be considered better as it shows the 3 dimensional views. We can look at it from different directions to understand what the solar 
 system looks like. The 2nd model also shows the different colours of the planets."
+
+@rtc {
+	context "Write 2-3 points about each planet."
+	
+	@qa "Mercury"
+	"1. Smallest planet.
+2. Craters are found.
+3. Takes 3 months for revolution around the sun."
+
+@qa "Venus"
+"1. Orange in colour.
+2. Intense heat on the planet.
+3. Takes 7 months to revolve around the sun."
+
+@qa "Earth"
+"1. Blue planet.
+2. Moderate temperature, presence of atmosphere.
+3. Takes 365 days to revolve around the sun."
+
+@qa "Mars"
+"1. Red planet.
+2. Surface similar to Earth.
+3. Takes 23 months to revolve around the sun."
+
+@qa "Jupiter"
+"1. Largest planet.
+2. Rotates with fast pace.
+3. Takes 12 years to revolve around the sun."
+
+@qa "Saturn"
+"1. Has rings.
+2. Wind blows at 1800 km/hr.
+3. Takes 30 years to revolve around the sun."
+
+@qa "Uranus"
+"1. Coldest planet, icy surface.
+2. Rolls like a ball.
+3. Takes 84 years for revolution."
+
+@qa "Neptune"
+"1. Extremely cold, icy surface.
+2. Wind speed 1000 Km/hr.
+3. Takes 165 years to revolve around the sun."
+
+}
+
+@qa "Write two similarities and two differences between Mars and Earth."
+"Similarities: 
+1. Both are planets.
+2. Both have rocky surface.
+
+Differences:
+1. Earth has thick atmosphere around it.
+2. Mars is the red planet, while Earth is blue and green."
+
+@qa "How are comets similar and different from planets?"
+"Differences:
+1. Comets- a. Have a long tail and longer orbit.
+b. Made of ice, rocks.
+
+2. Planets- a. Spherical shape.
+b. Oval shape.
+
+Similarities: Both revolve around the sun."
+
+@true_false "A satellite can be used to fire deadly rays on enemy countries. These rays can destroy entire cities." false
+
+@true_false "Satellite is another name for a UFO." false
+
+@qa "Can a satellite be considered similar to a meteor? Give reasons for your answer."
+"A satellite looks like a bright spot. It moves very slowly. A meteor looks like a bright streak of light. It is visible for a few seconds."
 
